@@ -47,7 +47,8 @@ def test_dataset(w, result1, label1, num_cols, num_rows):
     return count, count1, count2, count3;
 
 dataset_test = sys.argv[1]
-dataset_train = 'datasets/MNIST_data_updated/mnist_train.csv'
+dataset_train = sys.argv[2]
+#dataset_train = 'datasets/MNIST_data_updated/mnist_train.csv'
 #dataset_train = 'datasets/MNIST_data_updated/a_train.csv'
 result , label = load_csv(dataset_train)
 result1, label1 = load_csv(dataset_test)
