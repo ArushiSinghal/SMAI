@@ -41,12 +41,16 @@ def batch_test_dataset(batch_w, result1, label1, num_cols, num_rows):
         ans = numpy.dot(batch_w, result1[i])
         if (ans > 0) and (label1[i] == 1):
             count = count + 1
+            print ("1")
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
+            print ("0")
         if (ans >= 0) and (label1[i] == 0):
             count2 = count2 + 1
+            print ("1")
         if (ans <= 0) and (label1[i] == 1):
             count3 = count3 + 1
+            print ("0")
     return count, count1, count2, count3;
 
 def margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b):
@@ -70,12 +74,16 @@ def margin_test_dataset(margin_w, result1, label1, num_cols, num_rows, b):
             ans = numpy.dot(margin_w, result1[i])
             if (ans > 0) and (label1[i] == 1):
                 count = count + 1
+                print ("1")
             if (ans < 0) and (label1[i] == 0):
                 count1 = count1 + 1
+                print ("0")
             if (ans >= 0) and (label1[i] == 0):
                 count2 = count2 + 1
+                print ("1")
             if (ans <= 0) and (label1[i] == 1):
                 count3 = count3 + 1
+                print ("0")
         return count, count1, count2, count3;
 
 def train_dataset(w, epoch, result, label, num_cols, num_rows, learning_rate):
@@ -99,16 +107,20 @@ def test_dataset(w, result1, label1, num_cols, num_rows):
         ans = numpy.dot(w, result1[i])
         if (ans > 0) and (label1[i] == 1):
             count = count + 1
+            print ("1")
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
+            print ("0")
         if (ans > 0) and (label1[i] == 0):
             count2 = count2 + 1
+            print ("1")
         if (ans < 0) and (label1[i] == 1):
             count3 = count3 + 1
+            print ("0")
     return count, count1, count2, count3;
 
-dataset_test = sys.argv[1]
-dataset_train = sys.argv[2]
+dataset_train = sys.argv[1]
+dataset_test = sys.argv[2]
 #dataset_train = 'datasets/MNIST_data_updated/mnist_train.csv'
 #dataset_train = 'datasets/MNIST_data_updated/a_train.csv'
 result , label = load_csv(dataset_train)
@@ -127,7 +139,7 @@ total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
-print ("%f %f" %(precision, recall))
+#print ("%f %f" %(precision, recall))
 
 b = 1
 margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
@@ -136,7 +148,7 @@ total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
-print ("%f %f" %(precision, recall))
+#print ("%f %f" %(precision, recall))
 
 batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
 count, count1, count2, count3 = batch_test_dataset(batch_w, result1, label1, num_cols1, num_rows1)
@@ -144,4 +156,4 @@ total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
-print ("%f %f" %(precision, recall))
+#print ("%f %f" %(precision, recall))
