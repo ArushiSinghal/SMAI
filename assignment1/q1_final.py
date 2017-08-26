@@ -43,9 +43,9 @@ def batch_test_dataset(batch_w, result1, label1, num_cols, num_rows):
             count = count + 1
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
-        if (ans > 0) and (label1[i] == 0):
+        if (ans >= 0) and (label1[i] == 0):
             count2 = count2 + 1
-        if (ans < 0) and (label1[i] == 1):
+        if (ans <= 0) and (label1[i] == 1):
             count3 = count3 + 1
     return count, count1, count2, count3;
 
@@ -68,13 +68,13 @@ def margin_test_dataset(margin_w, result1, label1, num_cols, num_rows, b):
         count3 = 0
         for i in range(num_rows):
             ans = numpy.dot(margin_w, result1[i])
-            if (ans > b) and (label1[i] == 1):
+            if (ans > 0) and (label1[i] == 1):
                 count = count + 1
-            if (ans < -1*b) and (label1[i] == 0):
+            if (ans < 0) and (label1[i] == 0):
                 count1 = count1 + 1
-            if (ans > b) and (label1[i] == 0):
+            if (ans >= 0) and (label1[i] == 0):
                 count2 = count2 + 1
-            if (ans < -1*b) and (label1[i] == 1):
+            if (ans <= 0) and (label1[i] == 1):
                 count3 = count3 + 1
         return count, count1, count2, count3;
 
@@ -129,17 +129,17 @@ total2 = count + count3
 recall = (count * 1.0)/total2
 print ("%f %f" %(precision, recall))
 
-batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
-count, count1, count2, count3 = batch_test_dataset(batch_w, result1, label1, num_cols1, num_rows1)
+b = 1
+margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
+count, count1, count2, count3 = margin_test_dataset(margin_w, result1, label1, num_cols1, num_rows1, b)
 total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
 print ("%f %f" %(precision, recall))
 
-b = 1
-margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
-count, count1, count2, count3 = margin_test_dataset(margin_w, result1, label1, num_cols1, num_rows1, b)
+batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
+count, count1, count2, count3 = batch_test_dataset(batch_w, result1, label1, num_cols1, num_rows1)
 total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
