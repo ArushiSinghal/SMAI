@@ -22,7 +22,6 @@ def margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, lea
     for j in range(epoch):
         for i in range(num_rows):
             ans = numpy.dot(margin_w, result[i])
-            #print ans
             if (ans <= b):
                 c1 = b - numpy.dot(margin_w,result[i])
                 c2 = learning_rate*c1*1.0
@@ -80,7 +79,6 @@ learning_rate = 1.5
 num_rows1, num_cols1 = result1.shape
 b = 1
 margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
-print result
 for i in range(num_rows):
         if label[i] == 4:
             result1[i] = -1.0*result1[i]
