@@ -111,10 +111,10 @@ def test_dataset(w, result1, label1, num_cols, num_rows):
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
             print ("0")
-        if (ans > 0) and (label1[i] == 0):
+        if (ans >= 0) and (label1[i] == 0):
             count2 = count2 + 1
             print ("1")
-        if (ans < 0) and (label1[i] == 1):
+        if (ans <= 0) and (label1[i] == 1):
             count3 = count3 + 1
             print ("0")
     return count, count1, count2, count3;
