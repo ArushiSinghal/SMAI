@@ -59,7 +59,7 @@ def margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, lea
             ans = numpy.dot(margin_w, result[i])
             if (ans <= b) and (label[i] == 1):
                 mm = learning_rate*result[i]
-                margin_w = numpy.add(margin_w,result[i])
+                margin_w = numpy.add(margin_w,mm)
             elif (ans >= -1*b) and (label[i] == 0):
                 mm = -1*learning_rate*result[i]
                 margin_w = numpy.add(margin_w,mm)
@@ -92,7 +92,7 @@ def train_dataset(w, epoch, result, label, num_cols, num_rows, learning_rate):
             ans = numpy.dot(w, result[i])
             if (ans <= 0) and (label[i] == 1):
                 mm = learning_rate*result[i]
-                w = numpy.add(w,result[i])
+                w = numpy.add(w,mm)
             elif (ans >= 0) and (label[i] == 0):
                 mm = -1*learning_rate*result[i]
                 w = numpy.add(w,mm)
