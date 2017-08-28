@@ -50,11 +50,11 @@ def margin_test_dataset(margin_w, result1, label1, num_cols, num_rows, b):
 dataset_train = sys.argv[1]
 dataset_test = sys.argv[2]
 result , label = load_csv(dataset_train)
-result1, label1 = load_csv(dataset_test)
 num_rows, num_cols = result.shape
 #w = numpy.zeros((1,num_cols))
-margin_w = [1.0 for i in range(num_cols)]
+margin_w = [10.0 for i in range(num_cols)]
 margin_w = numpy.array(margin_w).astype("float")
+
 min = []
 max =[]
 for j in range(num_cols):
@@ -70,18 +70,33 @@ for j in range(num_cols):
 for j in range(num_cols - 1):
     for i in range(num_rows):
         result[i][j] = ((result[i][j] - min[j])*1.0)/((max[j] - min[j]) * 1.0)
-result1 = result
+
 for i in range(num_rows):
         if label[i] == 4:
             result[i] = -1.0*result[i]
-epoch = 100
-learning_rate = 1.5
-num_rows1, num_cols1 = result1.shape
-b = 1
+epoch = 50
+learning_rate = 2
+b = 2
 margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
-for i in range(num_rows):
-        if label[i] == 4:
-            result1[i] = -1.0*result1[i]
+result1, label1 = load_csv(dataset_test)
+num_rows1, num_cols1 = result1.shape
+
+min = []
+max =[]
+for j in range(num_cols1):
+    a = result1[0][j]
+    b = result1[0][j]
+    for k in range(num_rows1):
+        if result1[k][j] < a:
+            a = result1[k][j]
+        if result1[k][j] > b:
+            b = result1[k][j]
+    min.append(a)
+    max.append(b)
+for j in range(num_cols1 - 1):
+    for i in range(num_rows1):
+        result1[i][j] = ((result1[i][j] - min[j])*1.0)/((max[j] - min[j]) * 1.0)
+
 count, count1, count2, count3 = margin_test_dataset(margin_w, result1, label1, num_cols1, num_rows1, b)
 total1 = count + count2
 precision = (count * 1.0)/total1
