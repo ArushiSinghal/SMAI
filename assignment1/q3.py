@@ -90,6 +90,8 @@ def countimpormationgain(col,H,val):
 	count2 = 0
 	count3 = 0
 	count4 = 0
+	pa = 0 
+	pb = 0
 	for i in range(num_rows):
     		if float(col1[i]) <= val:
 			count1 += 1
@@ -99,25 +101,44 @@ def countimpormationgain(col,H,val):
 			count3 += 1
     		if float(col1[i]) > val and label[i] == '1':
 			count4 += 1
-	print (count1)
-	print (count2)
-	print (count3)
-	print (count4)
+	if (count3 ==0 or count1 ==0):
+		return 0
 	p3 = (count2*1.0)/count1
 	p4 = (count1-count2)/(count1*1.0)
 	p5 = (count4*1.0)/count3
         p6 = (count3-count4)/(count3*1.0)
 	p7 = count1 + count3
-    	p1 = -1*((count1*1.0)/p7)*(p3*math.log(p3,2) + p4*math.log(p4,2)) + -1*((count3*1.0)/p7)*(p5*math.log(p5,2) + p6*math.log(p6,2))
-	inf_gain = H - p1
+	if (p3 == 0 or p3 ==1):
+		pa = 0
+	else:
+		pa = -1*(p3*math.log(p3,2) + p4*math.log(p4,2))
+	if (p5 == 0 or p5 ==1):
+		pb = 0
+	else:
+		pb = -1*(p5*math.log(p5,2) + p6*math.log(p6,2))
+    	p1 = ((count1*1.0)/p7)*pa + ((count3*1.0)/p7)*pb
+	inf_gain= H - p1
 	return inf_gain
+
 H = wholeH(label)
-print (H)
 print ("############SATISFACTION LEVEL########################################")
 col1 = result[:,0]
-print col1
-inf_gain = countimpormationgain(col1, H, 0.45)
-print(inf_gain)
+c = 0
+inf_gain = 0
+pa = 0
+pb =0
+for i in range(len(answer)):
+	print len(answer)
+	inf_gain = countimpormationgain(col1, H, float(answer[i]))
+	if inf_gain  > c:
+		c = inf_gain
+		d = answer[i]
+		#pa_new = pa
+		#pb_new = pb
+#print(pa_new)
+#print(pb_new)
+print(d)
+print (c)
 print ("################WORK ACCIDENTS####################################")
 col1 = result[:,5]
 inf_gain = countimpormationgain(col1, H, 0)
@@ -128,13 +149,36 @@ inf_gain = countimpormationgain(col1, H, 0)
 print(inf_gain)
 print ("###########NUMBER OF PROJECTS#########################################")
 col1 = result[:,2]
-inf_gain = countimpormationgain(col1, H, 5)
-print(inf_gain)
+c = 0
+for i in range(len(answer2)):
+	inf_gain = countimpormationgain(col1, H, float(answer2[i]))
+	if inf_gain > c:
+		c = inf_gain
+		d = answer2[i]
+print(d)
+print(c)
 print ("###########LAST EVALUATION#########################################")
 col1 = result[:,1]
-inf_gain = countimpormationgain(col1, H, 0.6)
-print(inf_gain)
-print ("#########SALARY###########################################")
+c = 0
+for i in range(len(answer1)):
+	inf_gain = countimpormationgain(col1, H, float(answer1[i]))
+	if inf_gain > c:
+		c = inf_gain
+                d = answer1[i]
+print(d)
+print(c)
+
+print ("###########AVERAGE MONTHLY HOURS#########################################")
+col1 = result[:,3]
+c = 0
+for i in range(len(answer3)):
+        inf_gain = countimpormationgain(col1, H, float(answer3[i]))
+        if inf_gain > c:
+                c = inf_gain
+                d = answer3[i]
+print(d)
+print(c)
+print("#########SALARY###########################################")
 col1 = result[:,8]
 count1 = 0
 count2 = 0
@@ -155,9 +199,16 @@ for i in range(num_rows):
         count5 +=1
     if col1[i] == "high" and label[i] == '0':
         count6 +=1
-print ((count2*1.0)/count1)
-print ((count4*1.0)/count3)
-print ((count6*1.0)/count5)
+p3 = (count2*1.0)/count1
+p4 = (count1-count2)/(count1*1.0)
+p5 = (count4*1.0)/count3
+p6 = (count3-count4)/(count3*1.0)
+p7 = count1 + count3 + count5
+p8 = (count6*1.0)/count5
+p9 = (count5 - count6)/(count5*1.0)
+p1 = -1*((count1*1.0)/p7)*(p3*math.log(p3,2) + p4*math.log(p4,2)) + -1*((count3*1.0)/p7)*(p5*math.log(p5,2) + p6*math.log(p6,2)) + -1*((count5*1.0)/p7)*(p8*math.log(p8,2) + p9*math.log(p9,2))
+inf_gain = H - p1
+print (inf_gain)
 print ("###########SALES#########################################")
 'sales', 'accounting', 'technical', 'management', 'IT', 'product_mng', 'marketing', 'RandD', 'support', 'hr'
 col1 = result[:,7]
@@ -222,13 +273,27 @@ for i in range(num_rows):
         count19 +=1
     if (col1[i]) == answer7[9] and label[i] == '0':
         count20 +=1
-print ((count2*1.0)/count1)
-print ((count4*1.0)/count3)
-print ((count6*1.0)/count5)
-print ((count8*1.0)/count7)
-print ((count10*1.0)/count9)
-print ((count12*1.0)/count11)
-print ((count14*1.0)/count13)
-print ((count16*1.0)/count15)
-print ((count18*1.0)/count17)
-print ((count20*1.0)/count19)
+p3 = (count2*1.0)/count1
+p4 = (count1-count2)/(count1*1.0)
+p5 = (count4*1.0)/count3
+p6 = (count3-count4)/(count3*1.0)
+p8 = (count6*1.0)/count5
+p9 = (count5 - count6)/(count5*1.0)
+p10 = (count8*1.0)/count7
+p11 = (count7 - count8*1.0)/count7
+p12 = (count10*1.0)/count9
+p13 = (count9 - count10*1.0)/count9
+p14 = (count12*1.0)/count11
+p15 = (count11 - count12*1.0)/count11
+p16 = (count14*1.0)/count13
+p17 = (count13 - count14*1.0)/count13
+p18 = (count16*1.0)/count15
+p19 = (count15 - count16*1.0)/count15
+p20 = (count18*1.0)/count17
+p21 = (count17 - count18*1.0)/count17
+p22 = (count20*1.0)/count19
+p23 = (count19 - count20*1.0)/count19
+p7 = count1 + count3 + count5 + count7 + count9 + count11 + count13 + count15 + count17 + count19
+p1 = -1*((count1*1.0)/p7)*(p3*math.log(p3,2) + p4*math.log(p4,2)) + -1*((count3*1.0)/p7)*(p5*math.log(p5,2) + p6*math.log(p6,2)) + -1*((count5*1.0)/p7)*(p8*math.log(p8,2) + p9*math.log(p9,2)) + -1*((count7*1.0)/p7)*(p10*math.log(p10,2) + p11*math.log(p11,2)) + -1*((count9*1.0)/p7)*(p12*math.log(p12,2) + p13*math.log(p13,2)) + -1*((count11*1.0)/p7)*(p14*math.log(p14,2) + p15*math.log(p15,2)) + -1*((count13*1.0)/p7)*(p16*math.log(p16,2) + p17*math.log(p17,2)) + -1*((count15*1.0)/p7)*(p18*math.log(p18,2) + p19*math.log(p19,2)) + -1*((count17*1.0)/p7)*(p20*math.log(p20,2) + p21*math.log(p21,2)) + -1*((count19*1.0)/p7)*(p22*math.log(p22,2) + p23*math.log(p23,2)) 
+inf_gain = H - p1
+print (inf_gain)
