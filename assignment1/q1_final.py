@@ -130,7 +130,7 @@ w = numpy.zeros((1,num_cols))
 w = numpy.array(w).astype("int")
 batch_w = w
 margin_w = w
-epoch = 50
+epoch = 150
 learning_rate = 0.4
 w = train_dataset(w, epoch, result, label, num_cols, num_rows, learning_rate)
 num_rows1, num_cols1 = result1.shape
@@ -139,21 +139,23 @@ total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
-#print ("%f %f" %(precision, recall))
+print ("%f %f" %(precision, recall))
 
-b = 1
+b = 10000
 margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
 count, count1, count2, count3 = margin_test_dataset(margin_w, result1, label1, num_cols1, num_rows1, b)
 total1 = count + count2
-precision = (count * 1.0)/total1
+precision1 = (count * 1.0)/total1
 total2 = count + count3
-recall = (count * 1.0)/total2
-#print ("%f %f" %(precision, recall))
+recall1 = (count * 1.0)/total2
+print ("%f %f" %(precision1, recall1))
 
 batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
 count, count1, count2, count3 = batch_test_dataset(batch_w, result1, label1, num_cols1, num_rows1)
 total1 = count + count2
-precision = (count * 1.0)/total1
+precision2 = (count * 1.0)/total1
 total2 = count + count3
-recall = (count * 1.0)/total2
-#print ("%f %f" %(precision, recall))
+recall2 = (count * 1.0)/total2
+print ("%f %f" %(precision, recall))
+print ("%f %f" %(precision1, recall1))
+print ("%f %f" %(precision2, recall2))
