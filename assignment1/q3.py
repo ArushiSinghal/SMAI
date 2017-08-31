@@ -111,7 +111,7 @@ def get_tree(node):
 def test(node, row):
     num_rows,num_col = result.shape
     if node['index'] < 7:
-        if row[node['index']] <= node['value']:
+        if row[node['index']] <= float(node['value']):
             if isinstance(node['left'], dict):
                 return test(node['left'], row)
             else:
