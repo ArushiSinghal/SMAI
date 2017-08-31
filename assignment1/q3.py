@@ -84,8 +84,8 @@ def get_tree(node):
     else:
         num_row , num_col = left.shape
     if (len(right) == 0):
-        num_row = 0
-        num_col = 0
+        num_row1 = 0
+        num_col1 = 0
     else:
         num_row1 , num_col1 = right.shape
     del(node['groups'])
