@@ -75,11 +75,9 @@ def to_terminal(node):
     count1 = 0
     for i in range(num_rows):
         if node[i][9] == '1.0':
-            count +=1
+            count += 1
         if node[i][9] == '0.0':
-            count1 +=1
-    print count
-    print count1
+            count1 += 1
     if count >= count1:
         return 1
     else:
@@ -111,7 +109,7 @@ def get_tree(node):
     elif num_row > 1:
         node['left'] = gainfunction(left)
         get_tree(node['left'])
-    if num_row1 > 0 and num_row1 <= 1  :
+    if num_row1 > 0 and num_row1 <= 1:
         node['right'] = to_terminal(right)
     elif num_row1 > 1:
         node['right'] = gainfunction(right)
@@ -120,7 +118,7 @@ def get_tree(node):
 def test(node, row):
     num_rows,num_col = result.shape
     if node['index'] < 7:
-        if row[node['index']] <= node['value']:
+        if float(row[node['index']]) <= float(node['value']):
             if isinstance(node['left'], dict):
                 return test(node['left'], row)
             else:
@@ -262,4 +260,4 @@ root = gainfunction(result)
 get_tree(root)
 num_row, num_col = result1.shape
 for i in range(num_row):
-    test(root,result1[i])
+    a = test(root,result1[i])
