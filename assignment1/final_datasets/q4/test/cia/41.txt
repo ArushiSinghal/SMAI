@@ -1,0 +1,3400 @@
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>
+<s> 60 barbados 21,700 2010 est <\s>
+<s> 61 seychelles 21,600 2010 est <\s>
+<s> 62 cyprus 21,000 2010 est <\s>
+<s> 63 estonia 19,000 2010 est <\s>
+<s> 64 hungary 19,000 2010 est <\s>
+<s> 65 poland 18,800 2010 est <\s>
+<s> 66 french polynesia 18,000 2004 est <\s>
+<s> 67 croatia 17,500 2010 est <\s>
+<s> 68 antigua and barbuda 16,500 2010 est <\s>
+<s> 69 puerto rico 16,300 2010 est <\s>
+<s> 70 lithuania 15,900 2010 est <\s>
+<s> 71 russia 15,900 2010 est <\s>
+<s> 72 chile 15,500 2010 est <\s>
+<s> 73 sint maarten 15,400 2008 est <\s>
+<s> 74 new caledonia 15,000 2003 est <\s>
+<s> 75 curacao 14,970 2004 est <\s>
+<s> 76 argentina 14,700 2010 est <\s>
+<s> 77 malaysia 14,700 2010 est <\s>
+<s> 78 gabon 14,600 2010 est <\s>
+<s> 79 latvia 14,500 2010 est <\s>
+<s> 80 virgin islands 14,500 2004 est <\s>
+<s> 81 saint kitts and nevis 14,400 2010 est <\s>
+<s> 82 lebanon 14,200 2010 est <\s>
+<s> 83 libya 13,800 2010 est <\s>
+<s> 84 mexico 13,800 2010 est <\s>
+<s> 85 uruguay 13,600 2010 est <\s>
+<s> 86 mauritius 13,500 2010 est <\s>
+<s> 87 belarus 13,400 2010 est <\s>
+<s> 88 botswana 13,100 2010 est <\s>
+<s> 89 bulgaria 12,800 2010 est <\s>
+<s> 90 panama 12,700 2010 est <\s>
+<s> 91 venezuela 12,600 2010 est <\s>
+<s> 92 kazakhstan 12,500 2010 est <\s>
+<s> 93 northern mariana islands 12,500 2000 est <\s>
+<s> 94 turkey 12,300 2010 est <\s>
+<s> 95 anguilla 12,200 2008 est <\s>
+<s> 96 romania 11,500 2010 est <\s>
+<s> 97 turks and caicos islands 11,500 2002 est <\s>
+<s> 98 costa rica 11,400 2010 est <\s>
+<s> 99 iran 11,200 2010 est <\s>
+<s> 100 world 11,100 2010 est <\s>
+<s> 101 saint lucia 11,100 2010 est <\s>
+<s> 102 azerbaijan 11,000 2010 est <\s>
+<s> 103 serbia 11,000 2010 est <\s>
+<s> 104 brazil 10,900 2010 est <\s>
+<s> 105 south africa 10,700 2010 est <\s>
+<s> 106 saint vincent and the grenadines 10,600 2010 est <\s>
+<s> 107 dominica 10,500 2010 est <\s>
+<s> 108 grenada 10,500 2010 est <\s>
+<s> 109 cuba 9,900 2010 est <\s>
+<s> 110 montenegro 9,900 2010 est <\s>
+<s> 111 suriname 9,900 2010 est <\s>
+<s> 112 colombia 9,800 2010 est <\s>
+<s> 113 tunisia 9,500 2010 est <\s>
+<s> 114 macedonia 9,400 2010 est <\s>
+<s> 115 peru 9,200 2010 est <\s>
+<s> 116 cook islands 9,100 2005 est <\s>
+<s> 117 angola 8,700 2010 est <\s>
+<s> 118 thailand 8,700 2010 est <\s>
+<s> 119 dominican republic 8,600 2010 est <\s>
+<s> 120 belize 8,400 2010 est <\s>
+<s> 121 jamaica 8,400 2010 est <\s>
+<s> 122 palau 8,100 2008 est <\s>
+<s> 123 albania 8,000 2010 est <\s>
+<s> 124 american samoa 8,000 2007 est <\s>
+<s> 125 ecuador 7,800 2010 est <\s>
+<s> 126 algeria 7,400 2010 est <\s>
+<s> 127 china 7,400 2010 est <\s>
+<s> 128 turkmenistan 7,400 2010 est <\s>
+<s> 129 el salvador 7,300 2010 est <\s>
+<s> 130 saint pierre and miquelon 7,000 2001 est <\s>
+<s> 131 namibia 6,900 2010 est <\s>
+<s> 132 guyana 6,800 2010 est <\s>
+<s> 133 ukraine 6,700 2010 est <\s>
+<s> 134 bosnia and herzegovina 6,600 2010 est <\s>
+<s> 135 tonga 6,300 2010 est <\s>
+<s> 136 egypt 6,200 2010 est <\s>
+<s> 137 kiribati 6,200 2010 est <\s>
+<s> 138 armenia 5,800 2010 est <\s>
+<s> 139 niue 5,800 2003 est <\s>
+<s> 140 vanuatu 5,500 2010 est <\s>
+<s> 141 jordan 5,300 2010 est <\s>
+<s> 142 guatemala 5,200 2010 est <\s>
+<s> 143 samoa 5,200 2010 est <\s>
+<s> 144 bhutan 5,000 2010 est <\s>
+<s> 145 nauru 5,000 2005 est <\s>
+<s> 146 mayotte 4,900 2005 est <\s>
+<s> 147 morocco 4,900 2010 est <\s>
+<s> 148 sri lanka 4,900 2010 est <\s>
+<s> 149 paraguay 4,900 2010 est <\s>
+<s> 150 bolivia 4,800 2010 est <\s>
+<s> 151 syria 4,800 2010 est <\s>
+<s> 152 georgia 4,800 2010 est <\s>
+<s> 153 maldives 4,500 2010 est <\s>
+<s> 154 swaziland 4,500 2010 est <\s>
+<s> 155 fiji 4,300 2010 est <\s>
+<s> 156 indonesia 4,300 2010 est <\s>
+<s> 157 congo republic of the 4,200 2010 est <\s>
+<s> 158 honduras 4,200 2010 est <\s>
+<s> 159 wallis and futuna 3,800 2004 est <\s>

@@ -1,0 +1,3200 @@
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>
+<s> 55 greece 48,100 000,000 31 december 2010 est <\s>
+<s> 56 peru 43,470 000,000 31 december 2010 est <\s>
+<s> 57 morocco 42,190 000,000 31 december 2010 est <\s>
+<s> 58 venezuela 37,710 000,000 31 december 2010 est <\s>
+<s> 59 croatia 34,630 000,000 31 december 2010 est <\s>
+<s> 60 tunisia 33,560 000,000 31 december 2010 est <\s>
+<s> 61 pakistan 30,090 000,000 31 december 2010 est <\s>
+<s> 62 cyprus 29,360 000,000 31 december 2010 est <\s>
+<s> 63 qatar 26,380 000,000 31 december 2010 est <\s>
+<s> 64 philippines 24,940 000,000 31 december 2010 est <\s>
+<s> 65 serbia 23,520 000,000 31 december 2009 est <\s>
+<s> 66 jordan 22,190 000,000 31 december 2010 est <\s>
+<s> 67 kosovo 21,200 000,000 31 december 2010 est <\s>
+<s> 68 dominican republic 19,450 000,000 31 december 2010 est <\s>
+<s> 69 algeria 19,340 000,000 31 december 2010 est <\s>
+<s> 70 libya 18,640 000,000 31 december 2010 est <\s>
+<s> 71 estonia 17,530 000,000 31 december 2010 est <\s>
+<s> 72 iran 16,820 000,000 31 december 2010 est <\s>
+<s> 73 bahrain 15,770 000,000 31 december 2010 est <\s>
+<s> 74 slovenia 15,730 000,000 31 december 2010 est <\s>
+<s> 75 lithuania 14,110 000,000 31 december 2010 est <\s>
+<s> 76 costa rica 13,920 000,000 31 december 2010 est <\s>
+<s> 77 macau 13,600 000,000 2008 est <\s>
+<s> 78 ecuador 12,300 000,000 31 december 2010 est <\s>
+<s> 79 latvia 11,710 000,000 31 december 2010 est <\s>
+<s> 80 azerbaijan 8,918 000,000 31 december 2010 est <\s>
+<s> 81 malta 8,240 000,000 31 december 2009 82 el salvador 7,522 000,000 31 december 2010 est <\s>
+<s> 83 bangladesh 6,720 000,000 31 december 2010 est <\s>
+<s> 84 macedonia 3,528 000,000 31 october 2009 est <\s>
+<s> 85 kenya 2,337 000,000 31 december 2010 est <\s>
+<s> 86 kuwait 1,281 000,000 31 december 2010 est <\s>
+<s> 87 paraguay 2,153 000 31 december 2008 rank code 2199 country comparison :: stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> rank country stock of direct foreign investment abroaddate of information 1 united states 3,597 000,000 000 31 december 2010 est <\s>
+<s> 2 france 1,837 000,000 000 31 december 2010 est <\s>
+<s> 3 united kingdom 1,705 000,000 000 31 december 2010 est <\s>
+<s> 4 germany 1,484 000,000 000 31 december 2010 est <\s>
+<s> 5 netherlands 950,800 000,000 31 december 2010 est <\s>
+<s> 6 hong kong 873,100 000,000 31 december 2010 est <\s>
+<s> 7 japan 831,100 000,000 31 december 2010 est <\s>
+<s> 8 switzerland 814,600 000,000 31 december 2010 est <\s>
+<s> 9 spain 641,000 000,000 31 december 2010 est <\s>
+<s> 10 belgium 632,800 000,000 31 december 2010 est <\s>
+<s> 11 canada 602,500 000,000 31 december 2010 est <\s>
+<s> 12 italy 601,100 000,000 31 december 2010 est <\s>
+<s> 13 sweden 383,900 000,000 31 december 2010 est <\s>
+<s> 14 austria 297,200 000,000 31 december 2010 est <\s>
+<s> 15 china 278,900 000,000 31 december 2010 est <\s>
+<s> 16 russia 260,500 000,000 31 december 2010 est <\s>
+<s> 17 australia 245,900 000,000 31 december 2010 est <\s>
+<s> 18 norway 226,600 000,000 31 december 2010 est <\s>
+<s> 19 denmark 199,800 000,000 31 december 2010 est <\s>
+<s> 20 ireland 192,700 000,000 31 december 2010 est <\s>
+<s> 21 singapore 172,100 000,000 31 december 2010 est <\s>
+<s> 22 brazil 131,000 000,000 31 december 2010 est <\s>
+<s> 23 taiwan 122,500 000,000 31 december 2010 est <\s>
+<s> 24 finland 122,200 000,000 31 december 2010 est <\s>
+<s> 25 korea south 115,600 000,000 31 december 2009 26 india 89,040 000,000 31 december 2010 est <\s>
+<s> 27 malaysia 82,650 000,000 31 december 2010 est <\s>
+<s> 28 portugal 63,640 000,000 31 december 2010 est <\s>
+<s> 29 mexico 62,930 000,000 31 december 2010 est <\s>
+<s> 30 israel 58,420 000,000 31 december 2010 est <\s>
+<s> 31 united arab emirates 54,910 000,000 31 december 2010 est <\s>
+<s> 32 south africa 53,380 000,000 31 december 2010 est <\s>
+<s> 33 chile 51,150 000,000 31 december 2010 est <\s>
+<s> 34 kuwait 44,310 000,000 31 december 2010 est <\s>
+<s> 35 greece 38,660 000,000 31 december 2010 est <\s>
+<s> 36 indonesia 33,710 000,000 31 december 2010 est <\s>
+<s> 37 poland 30,710 000,000 31 december 2010 est <\s>
+<s> 38 argentina 30,160 000,000 31 december 2010 est <\s>
+<s> 39 venezuela 20,970 000,000 31 december 2010 est <\s>
+<s> 40 hungary 20,480 000,000 31 december 2010 est <\s>
+<s> 41 thailand 20,300 000,000 31 december 2010 est <\s>
+<s> 42 qatar 19,490 000,000 31 december 2010 est <\s>
+<s> 43 colombia 19,200 000,000 31 december 2010 est <\s>
+<s> 44 tajikistan 18,500 000,000 31 december 2010 est <\s>
+<s> 45 saudi arabia 18,000 000,000 31 december 2010 est <\s>
+<s> 46 cyprus 16,570 000,000 31 december 2010 est <\s>
+<s> 47 turkey 16,420 000,000 31 december 2010 est <\s>
+<s> 48 czech republic 15,850 000,000 31 december 2010 est <\s>
+<s> 49 libya 15,320 000,000 31 december 2010 est <\s>
+<s> 50 slovenia 9,001 000,000 31 december 2010 est <\s>
+<s> 51 bahrain 8,399 000,000 31 december 2010 est <\s>
+<s> 52 vietnam 7,700 000,000 31 december 2009 est <\s>
+<s> 53 kazakhstan 7,208 000,000 31 december 2010 est <\s>
+<s> 54 estonia 7,134 000,000 31 december 2010 est <\s>
+<s> 55 philippines 6,591 000,000 31 december 2010 est <\s>
+<s> 56 croatia 6,334 000,000 31 december 2010 est <\s>
+<s> 57 nigeria 6,071 000,000 31 december 2010 est <\s>
+<s> 58 azerbaijan 6,058 000,000 31 december 2010 est <\s>
+<s> 59 egypt 4,900 000,000 31 december 2010 est <\s>
+<s> 60 angola 4,883 000,000 31 december 2010 est <\s>
+<s> 61 cuba 4,138 000,000 2006 est <\s>
+<s> 62 trinidad and tobago 3,829 000,000 2007 63 slovakia 2,643 000,000 31 december 2010 est <\s>
+<s> 64 lithuania 2,507 000,000 31 december 2010 est <\s>
+<s> 65 ukraine 2,327 000,000 31 december 2010 est <\s>
+<s> 66 peru 2,120 000,000 31 december 2010 est <\s>
+<s> 67 iran 2,075 000,000 31 december 2010 est <\s>
+<s> 68 algeria 1,844 000,000 31 december 2010 est <\s>
+<s> 69 romania 1,831 000,000 31 december 2010 est <\s>

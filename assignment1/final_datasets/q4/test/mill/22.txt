@@ -1,0 +1,900 @@
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>
+<s> 4 pensions 4.0 5 miscellaneous 19.5 total expenditures 352 101.0 the prussian direct taxes include 1 a land tax 2 a house tax 3 an income tax 4 a class tax 5 a trade tax and 6 miscellaneous taxes <\s>
+<s> how the french supply themselves may be seen by the following statement :( 353 french budget 1881 <\s>
+<s> in millions and tenths of millions receipts direct taxes 75.9 similar taxes 4.7 registry stamps etc 135.1 forests 7.6 customs and salt duty 3.5 65.4 indirect taxes including 209.7 tobacco post office and telegraph 27.2 miscellaneous 29.8 total receipts 555.4 expenditures public debt etc <\s>
+<s> 249.0 general functions of the 243.7 ministries administrative expenses cost 58.5 of revenue collections etc <\s>
+<s> miscellaneous 3.5 total expenditures 554.7 the direct taxes are 1 on property 2 one nearly like our poll tax together with a species of income tax 3 a tax on doors and windows and 4 one on licenses <\s>
+<s> a r  sum   of the general principles of taxation <\s>
+<s> after the manner of our classification and r  sum   of the subject of value and money it may be convenient to here insert a recapitulation of the various principles under the treatment of taxation 354 comparison between direct and indirect taxation <\s>
+<s> adam smiths    canons of taxation       a tax should be i <\s>
+<s> equal in amount of sacrifice entailed <\s>
+<s> all for the state a tax is either direct <\s>
+<s> indirect on commodities direct taxes are on income <\s>
+<s> taxes on income are general <\s>
+<s> the best of taxes if people were all honest <\s>
+<s> as it is it falls most heavily on the conscientious <\s>
+<s> should be reserved for emergency <\s>
+<s> all savings and a fixed amount in all incomes should be exempt <\s>
+<s> special taxes are on rent <\s>
+<s> agricultural rent is meant <\s>
+<s> it falls entirely on the landlord and if not balanced by taxes on other classes is unjust <\s>
+<s> may be blended with a tax on profits if on rent due to landlords improvements <\s>
+<s> taxes on wages are on skilled <\s>
+<s> skilled wages are at a monopoly price and taxes on them are paid by the laborers so long as wages are not reduced below their just proportion <\s>
+<s> 1 population diminished by it paid by profits <\s>
+<s> 2 population left stationary shared between profits and wages <\s>
+<s> 3 population increasing in spite of it falls entirely on wages <\s>
+<s> may possible stimulate production and is then a good all round contributing to the state and leaving no one any poorer <\s>
+<s> if not if profits are really diminished by the tax capital may be diminished also <\s>
+<s> this a may or b may not diminish population <\s>
+<s> if a then the margin of cultivation ceases to be extended and part of the tax pro tanto falls on the landlords <\s>
+<s> if b then wages fall and part of the tax falls on the laborer <\s>
+<s> total result is a nearer approach to the stationary state <\s>
+<s> taxes on expenditure are open to the same objections as the general income tax <\s>
+<s> they may be assessed taxes <\s>
+<s> assessed taxes such as on servants dogs etc <\s>
+<s> these are rigidly direct <\s>
+<s> house taxes are on building rent <\s>
+<s> house taxes on building rent are paid by occupier <\s>
+<s> this tax is indirect <\s>
+<s> house taxes on ground rent are 1 with or 2 without an equivalent tax on agricultural rent <\s>
+<s> 1 are paid by ground landlord wholly and therefore direct <\s>
+<s> 2 are part by occupier and therefore indirect <\s>
+<s> indirect taxes are excise customs or tolls <\s>
+<s> indirect taxes may be on 1 long or 2 short investments of capital <\s>
+<s> indirect taxes on long investments are always unadvisable in view of canon iv <\s>
+<s> indirect taxes on short investments are subject to the laws of indirect taxation <\s>
+<s> tax vanities rather than positive enjoyments e g liveries rather than servants <\s>
+<s> the consumer and not the producer should pay the tax collector canon iv <\s>
+<s> that is collect the tax as near the actual consumer as possible <\s>
+<s> taxes on real enjoyments to be kept as equal as possible for large and small means <\s>
+<s> tax as few articles as possible <\s>
+<s> england taxes only a very small number of imports <\s>
+<s> the united states taxes nearly everything imported <\s>
+<s> the united states collect 91,000 000 from spirits and liquors and 42,000 000 from tobacco 1883 <\s>
+<s> tax imports of commodities not made at home or whose home production is under an excise internal revenue duty equal to the customs tax <\s>
+<s> keep the rate of tax low in order to get most revenue <\s>
+<s> of a national debt <\s>
+<s> is it desirable to defray extraordinary public expenses by loans <\s>
+<s> the question must now be considered how far it is right or expedient to raise money for the purposes of government not by laying on taxes to the amount required but by taking a portion of the capital of the country in the form of a loan and charging the public revenue with only the interest <\s>
+<s> this question has already been touched upon in the first book 355 we remarked that if the capital taken in loans is abstracted from funds either engaged in production or destined to be employed in it their diversion from that purpose is equivalent to taking the amount from the wages of the laboring classes <\s>
+<s> borrowing in this case is not a substitute for raising the supplies within the year <\s>
+<s> a government which borrows does actually take the amount within the year and that too by a tax exclusively on the laboring classes than which it could have done nothing worse if it had supplied its wants by avowed taxation and in that case the transaction and its evils would have ended with the emergency while by the circuitous mode adopted the value exacted from the laborers is gained not by the state but by the employers of labor the state remaining charged with the debt besides and with its interest in perpetuity <\s>
+<s> the system of public loans in such circumstances may be pronounced the very worst which in the present state of civilization is still included in the catalogue of financial expedients <\s>
+<s> we however remarked that there are other circumstances in which loans are not chargeable with these pernicious consequences namely first when what is borrowed is foreign capital the overflowings of the general accumulation of the world or secondly when it is capital which either would not have been saved at all unless this mode of investment had been open to it or after being saved would have been wasted in unproductive enterprises or sent to seek employment in foreign countries <\s>
+<s> when the progress of accumulation has reduced profits either to the ultimate or to the practical minimumto the rate less than which would either put a stop to the increase of capital or send the whole of the new accumulations abroadgovernment may annually intercept these new accumulations without trenching on the employment or wages of the laboring classes in the country itself or perhaps in any other country <\s>
+<s> to this extent therefore the loan system may be carried without being liable to the utter and peremptory condemnation which is due to it when it overpasses this limit <\s>
+<s> what is wanted is an index to determine whether in any given series of years as during the last great war for example the limit has been exceeded or not <\s>
+<s> such an index exists at once a certain and an obvious one <\s>
+<s> did the government by its loan operations augment the rate of interest <\s>
+<s> if it only opened a channel for capital which would not otherwise have been accumulated or which if accumulated would not have been employed within the country this implies that the capital which the government took and expended could not have found employment at the existing rate of interest <\s>
+<s> so long as the loans do no more than absorb this surplus they prevent any tendency to a fall of the rate of interest but they can not occasion any rise <\s>
+<s> but to the full extent to which the loans of government during the war caused the rate of interest to exceed what it was before and what it has been since those loans are chargeable with all the evils which have been described <\s>
+<s> if it be objected that interest only rose because profits rose i reply that this does not weaken but strengthens the argument <\s>
+<s> if the government loans produced the rise of profits by the great amount of capital which they absorbed by what means can they have had this effect unless by lowering the wages of labor <\s>
+<s> it will perhaps be said that what kept profits high during the war was not the drafts made on the national capital by the loans but the rapid progress of industrial improvements <\s>
+<s> this in a great measure was the fact and it no doubt alleviated the hardship to the laboring classes and made the financial system which was pursued less actively mischievous but not less contrary to principle <\s>
+<s> these very improvements in industry made room for a larger amount of capital and the government by draining away a great part of the annual accumulations did not indeed prevent that capital from existing ultimately for it started into existence with great rapidity after the peace but prevented it from existing at the time and subtracted just so much while the war lasted from distribution among productive laborers <\s>
+<s> if the government had abstained from taking this capital by loan and had allowed it to reach the laborers but had raised the supplies which it required by a direct tax on the laboring classes it would have produced in every respect but the expense and inconvenience of collecting the tax the very same economical effects which it did produce except that we should not now have had the debt <\s>
+<s> the course it actually took was therefore worse than the very worst mode which it could possibly have adopted of raising the supplies within the year and the only excuse or justification which it admits of so far as that excuse could be truly pleaded was hard necessity the impossibility of raising so enormous an annual sum by taxation without resorting to taxes which from their odiousness or from the facility of evasion it would have been found impracticable to enforce 356 when government loans are limited to the overflowings of the national capital or to those accumulations which would not take place at all unless suffered to overflow they are at least not liable to this grave condemnation <\s>
+<s> in this case therefore the question really is what it is commonly supposed to be in all casesnamely a choice between a great sacrifice at once and a small one indefinitely prolonged <\s>
+<s> on this matter it seems rational to think that the prudence of a nation will dictate the same conduct as the prudence of an individual to submit to as much of the privation immediately as can easily be borne and only when any further burden would distress or cripple them too much to provide for the remainder by mortgaging their future income <\s>
+<s> it is an excellent maxim to make present resources suffice for present wants the future will have its own wants to provide for <\s>
+<s> on the other hand it may reasonably be taken into consideration that in a country increasing in wealth the necessary expenses of government do not increase in the same ratio as capital or population any burden therefore is always less and less felt and since those extraordinary expenses of government which are fit to be incurred at all are mostly beneficial beyond the existing generation there is no injustice in making posterity pay a part of the price if the inconvenience would be extreme of defraying the whole of it by the exertions and sacrifices of the generation which first incurred it <\s>
+<s> not desirable to redeem a national debt by a general contribution <\s>
+<s> when a country wisely or unwisely has burdened itself with a debt is it expedient to take steps for redeeming that debt <\s>
+<s> in principle it is impossible not to maintain the affirmative <\s>
+<s> two modes have been contemplated of paying off a national debt either at once by a general contribution or gradually by a surplus revenue <\s>
+<s> the first would be incomparably the best if it were practicable and it would be practicable if it could justly be done by assessment on property alone <\s>
+<s> if property bore the whole interest of the debt property might with great advantage to itself pay it off since this would be merely surrendering to a creditor the principal sum the whole annual proceeds of which were already his by law and would be equivalent to what a land owner does when he sells part of his estate to free the remainder from a mortgage <\s>
+<s> but property it need hardly be said does not pay and can not justly be required to pay the whole interest of the debt <\s>
+<s> whatever is the fitting contribution from property to the general expenses of the state in the same and in no greater proportion should it contribute toward either the interest or the repayment of the national debt <\s>
+<s> this however if admitted is fatal to any scheme for the extinction of the debt by a general assessment on the community <\s>
+<s> persons of property could pay their share of the amount by a sacrifice of property and have the same net income as before <\s>
+<s> illustration if a person owns a property a b which returns him 1,000 income and if he pays 10 a year in taxes as his share of interest on the public debt suppose that part of his estate represented by x which returns him annually 10 and which return he has annually handed over to the state to be carved out of it and that he is to be hereafter relieved of his share of taxes <\s>
+<s> he would then after having paid the capitalized value x of that which was his share of the annual tax to the state on account of the public debt have the same net income as before for he was never able to enjoy the income of x <\s>
+<s> if those who have no accumulations but only incomes were required to make up by a single payment the equivalent of the annual charge laid on them by the taxes maintained to pay the interest of the debt they could only do so by incurring a private debt equal to their share of the public debt while from the insufficiency in most cases of the security which they could give the interest would amount to a much larger annual sum than their share of that now paid by the state <\s>
+<s> besides a collective debt defrayed by taxes has over the same debt parceled out among individuals the immense advantage that it is virtually a mutual insurance among the contributors <\s>
+<s> if the fortune of a contributor diminishes his taxes diminish if he is ruined they cease altogether and his portion of the debt is wholly transferred to the solvent members of the community <\s>
+<s> if it were laid on him as a private obligation he would still be liable to it even when penniless <\s>
+<s> when the state possesses property in land or otherwise which there are not strong reasons of public utility for its retaining at its disposal this should be employed as far as it will go in extinguishing debt <\s>
+<s> any casual gain or god send is naturally devoted to the same purpose <\s>

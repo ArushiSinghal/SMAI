@@ -1,0 +1,2900 @@
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>
+<s> 626 sierra leone 3.60 2010 est <\s>
+<s> 627 sint maarten 3.60 2010 est <\s>
+<s> 628 tajikistan 3.60 2010 est <\s>
+<s> 629 honduras 3.60 2010 est <\s>
+<s> 630 eritrea 3.60 2010 est <\s>
+<s> 631 belize 3.50 2010 est <\s>
+<s> 632 swaziland 3.50 2010 est <\s>
+<s> 633 solomon islands 3.50 2010 est <\s>
+<s> 634 sao tome and principe 3.50 2010 est <\s>
+<s> 635 papua new guinea 3.50 2010 est <\s>
+<s> 636 kiribati 3.50 2010 est <\s>
+<s> 637 guinea 3.50 2010 est <\s>
+<s> 638 ghana 3.50 2010 est <\s>
+<s> 639 haiti 3.40 2010 est <\s>
+<s> 640 mauritania 3.40 2010 est <\s>
+<s> 641 timor-leste 3.40 2010 est <\s>
+<s> 642 brunei 3.30 2010 est <\s>
+<s> 643 cameroon 3.30 2010 est <\s>
+<s> 644 nicaragua 3.30 2010 est <\s>
+<s> 645 djibouti 3.20 2010 est <\s>
+<s> 646 comoros 3.10 2010 est <\s>
+<s> 647 northern mariana islands 3.10 2010 est <\s>
+<s> 648 nigeria 3.10 2010 est <\s>
+<s> 649 guinea-bissau 3.10 2010 est <\s>
+<s> 650 laos 3.10 2010 est <\s>
+<s> 651 iraq 3.00 2010 est <\s>
+<s> 652 kuwait 3.00 2010 est <\s>
+<s> 653 mali 3.00 2010 est <\s>
+<s> 654 senegal 3.00 2010 est <\s>
+<s> 655 madagascar 3.00 2010 est <\s>
+<s> 656 chad 2.90 2010 est <\s>
+<s> 657 cote d'ivoire 2.90 2010 est <\s>
+<s> 658 micronesia federated states of 2.90 2010 est <\s>
+<s> 659 tanzania 2.90 2010 est <\s>
+<s> 660 mozambique 2.90 2010 est <\s>
+<s> 661 marshall islands 2.90 2010 est <\s>
+<s> 662 congo republic of the 2.80 2010 est <\s>
+<s> 663 gambia the 2.80 2010 est <\s>
+<s> 664 togo 2.80 2010 est <\s>
+<s> 665 oman 2.80 2010 est <\s>
+<s> 666 liberia 2.80 2010 est <\s>
+<s> 667 grenada 2.80 2010 est <\s>
+<s> 668 angola 2.70 2010 est <\s>
+<s> 669 malawi 2.70 2010 est <\s>
+<s> 670 ethiopia 2.70 2010 est <\s>
+<s> 671 benin 2.60 2010 est <\s>
+<s> 672 gaza strip 2.60 2010 est <\s>
+<s> 673 kenya 2.60 2010 est <\s>
+<s> 674 yemen 2.60 2010 est <\s>
+<s> 675 burkina faso 2.50 2010 est <\s>
+<s> 676 burundi 2.50 2010 est <\s>
+<s> 677 saudi arabia 2.50 2010 est <\s>
+<s> 678 rwanda 2.50 2010 est <\s>
+<s> 679 congo democratic republic of the 2.50 2010 est <\s>
+<s> 680 somalia 2.50 2010 est <\s>
+<s> 681 sudan 2.50 2010 est <\s>
+<s> 682 afghanistan 2.40 2010 est <\s>
+<s> 683 niger 2.30 2010 est <\s>
+<s> 684 western sahara 2.30 2010 est <\s>
+<s> 685 zambia 2.30 2010 est <\s>
+<s> 686 nauru 2.10 2010 est <\s>
+<s> 687 uganda 2.10 2010 est <\s>
+<s> 688 mayotte 1.80 2010 est <\s>
+<s> 689 qatar 1.40 2010 est <\s>
+<s> 690 united arab emirates 0.90 2010 est <\s>
+<s> rank code 2011 country comparison :: geographic coordinates this entry includes rounded latitude and longitude figures for the purpose of finding the approximate geographic center of an entity and is based on the locations provided in the geographic names server gns maintained by the national geospatial-intelligence agency on behalf of the us board on geographic names <\s>
+<s> rank country geographic coordinates date of information rank code 2012 country comparison :: gdp composition by sector this entry gives the percentage contribution of agriculture industry and services to total gdp <\s>
+<s> the distribution will total less than 100 percent if the data are incomplete <\s>
+<s> rank country date of information 1 gibraltar 100.00 2008 2 macau 97.10 2009 est <\s>
+<s> 3 jersey 97.00 2005 4 cayman islands 95.40 1994 est <\s>
+<s> 5 monaco 95.10 2005 6 falkland islands islas malvinas 95.00 1996 7 equatorial guinea 93.90 2010 est <\s>
+<s> 8 hong kong 92.30 2010 est <\s>
+<s> 9 bermuda 89.00 2002 est <\s>
+<s> 10 british virgin islands 88.30 1996 est <\s>
+<s> 11 guernsey 87.00 2000 12 isle of man 86.00 2000 est <\s>
+<s> 13 luxembourg 86.00 2007 est <\s>
+<s> 14 bahamas the 84.10 2001 est <\s>
+<s> 15 curacao 84.00 2000 est <\s>
+<s> 16 saint martin 84.00 2000 17 djibouti 81.90 2006 18 palau 81.80 2003 19 sint maarten 81.30 2008 est <\s>
+<s> 20 west bank 81.00 2008 est <\s>
+<s> 21 malta 80.90 2007 est <\s>
+<s> 22 saint lucia 80.00 2005 est <\s>
+<s> 23 virgin islands 80.00 2003 est <\s>
+<s> 24 cyprus 79.30 2010 est <\s>
+<s> 25 france 79.00 2010 est <\s>
+<s> 26 lebanon 79.00 2010 est <\s>
+<s> 27 qatar 78.80 2010 est <\s>
+<s> 28 greece 78.50 2010 est <\s>
+<s> 29 anguilla 78.00 2002 est <\s>
+<s> 30 barbados 78.00 2000 est <\s>
+<s> 31 fiji 77.60 2004 est <\s>
+<s> 32 panama 77.60 2010 est <\s>
+<s> 33 maldives 77.50 2009 est <\s>
+<s> 34 belgium 77.20 2010 est <\s>
+<s> 35 united kingdom 77.10 2010 est <\s>
+<s> 36 liberia 76.90 2002 est <\s>
+<s> 37 united states 76.70 2010 est <\s>
+<s> 38 grenada 76.60 2003 39 new caledonia 76.20 2003 40 denmark 76.10 2010 est <\s>
+<s> 41 french polynesia 76.10 2005 42 japan 75.70 2010 est <\s>
+<s> 43 montserrat 75.70 1999 est <\s>

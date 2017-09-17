@@ -1,0 +1,3100 @@
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>
+<s> 293 botswana 315,743 00 2010 est <\s>
+<s> 294 gaza strip 308,835 00 2010 est <\s>
+<s> 295 namibia 304,496 00 2010 est <\s>
+<s> 296 mauritius 283,023 00 2010 est <\s>
+<s> 297 mauritius 279,405 00 2010 est <\s>
+<s> 298 trinidad and tobago 273,361 00 2010 est <\s>
+<s> 299 lesotho 273,348 00 2010 est <\s>
+<s> 300 cyprus 271,692 00 2010 est <\s>
+<s> 301 lesotho 267,825 00 2010 est <\s>
+<s> 302 trinidad and tobago 266,535 00 2010 est <\s>
+<s> 303 estonia 255,926 00 2010 est <\s>
+<s> 304 gambia the 248,065 00 2010 est <\s>
+<s> 305 timor-leste 245,033 00 2010 est <\s>
+<s> 306 gambia the 238,006 00 2010 est <\s>
+<s> 307 timor-leste 236,996 00 2010 est <\s>
+<s> 308 cyprus 236,908 00 2010 est <\s>
+<s> 309 estonia 213,740 00 2010 est <\s>
+<s> 310 fiji 206,386 00 2010 est <\s>
+<s> 311 guinea-bissau 206,240 00 2010 est <\s>
+<s> 312 guinea-bissau 199,771 00 2010 est <\s>
+<s> 313 gabon 198,970 00 2010 est <\s>
+<s> 314 swaziland 196,633 00 2010 est <\s>
+<s> 315 fiji 195,414 00 2010 est <\s>
+<s> 316 gabon 192,807 00 2010 est <\s>
+<s> 317 swaziland 172,602 00 2010 est <\s>
+<s> 318 bahrain 170,633 00 2010 est <\s>
+<s> 319 bhutan 153,985 00 2010 est <\s>
+<s> 320 montenegro 151,798 00 2010 est <\s>
+<s> 321 macau 149,799 00 2010 est <\s>
+<s> 322 djibouti 147,939 00 2010 est <\s>
+<s> 323 guyana 147,296 00 2010 est <\s>
+<s> 324 bahrain 146,243 00 2010 est <\s>
+<s> 325 comoros 140,600 00 2010 est <\s>
+<s> 326 bhutan 140,437 00 2010 est <\s>
+<s> 327 qatar 138,558 00 2010 est <\s>
+<s> 328 maldives 137,181 00 2010 est <\s>
+<s> 329 montenegro 134,267 00 2010 est <\s>
+<s> 330 guyana 132,188 00 2010 est <\s>
+<s> 331 comoros 130,064 00 2010 est <\s>
+<s> 332 solomon islands 126,999 00 2010 est <\s>
+<s> 333 solomon islands 125,928 00 2010 est <\s>
+<s> 334 macau 124,074 00 2010 est <\s>
+<s> 335 cape verde 114,721 00 2010 est <\s>
+<s> 336 suriname 111,927 00 2010 est <\s>
+<s> 337 equatorial guinea 111,543 00 2010 est <\s>
+<s> 338 djibouti 110,441 00 2010 est <\s>
+<s> 339 equatorial guinea 109,311 00 2010 est <\s>
+<s> 340 suriname 108,555 00 2010 est <\s>
+<s> 341 cape verde 103,894 00 2010 est <\s>
+<s> 342 brunei 97,345 00 2010 est <\s>
+<s> 343 luxembourg 96,585 00 2010 est <\s>
+<s> 344 luxembourg 95,519 00 2010 est <\s>
+<s> 345 brunei 93,809 00 2010 est <\s>
+<s> 346 western sahara 83,988 00 2010 est <\s>
+<s> 347 maldives 83,837 00 2010 est <\s>
+<s> 348 malta 79,961 00 2010 est <\s>
+<s> 349 western sahara 76,483 00 2010 est <\s>
+<s> 350 malta 76,067 00 2010 est <\s>
+<s> 351 french polynesia 66,451 00 2010 est <\s>
+<s> 352 french polynesia 65,306 00 2010 est <\s>
+<s> 353 bahamas the 63,954 00 2010 est <\s>
+<s> 354 bahamas the 62,779 00 2010 est <\s>
+<s> 355 iceland 62,705 00 2010 est <\s>
+<s> 356 iceland 61,392 00 2010 est <\s>
+<s> 357 barbados 58,542 00 2010 est <\s>
+<s> 358 barbados 58,532 00 2010 est <\s>
+<s> 359 belize 57,759 00 2010 est <\s>
+<s> 360 belize 55,903 00 2010 est <\s>
+<s> 361 new caledonia 49,619 00 2010 est <\s>
+<s> 362 new caledonia 49,173 00 2010 est <\s>
+<s> 363 vanuatu 43,894 00 2010 est <\s>
+<s> 364 vanuatu 42,450 00 2010 est <\s>
+<s> 365 samoa 37,674 00 2010 est <\s>
+<s> 366 samoa 37,492 00 2010 est <\s>
+<s> 367 mayotte 37,001 00 2010 est <\s>
+<s> 368 saint lucia 36,216 00 2010 est <\s>
+<s> 369 mayotte 36,018 00 2010 est <\s>
+<s> 370 saint lucia 32,406 00 2010 est <\s>
+<s> 371 tonga 28,509 00 2010 est <\s>
+<s> 372 sao tome and principe 28,450 00 2010 est <\s>
+<s> 373 tonga 27,404 00 2010 est <\s>
+<s> 374 sao tome and principe 26,530 00 2010 est <\s>
+<s> 375 micronesia federated states of 23,410 00 2010 est <\s>
+<s> 376 saint vincent and the grenadines 22,932 00 2010 est <\s>
+<s> 377 grenada 22,535 00 2010 est <\s>
+<s> 378 grenada 22,487 00 2010 est <\s>
+<s> 379 saint vincent and the grenadines 22,134 00 2010 est <\s>
+<s> 380 micronesia federated states of 21,909 00 2010 est <\s>
+<s> 381 aruba 21,371 00 2010 est <\s>
+<s> 382 virgin islands 21,070 00 2010 est <\s>
+<s> 383 aruba 20,398 00 2010 est <\s>
+<s> 384 seychelles 19,989 00 2010 est <\s>
+<s> 385 seychelles 19,882 00 2010 est <\s>
+<s> 386 antigua and barbuda 19,764 00 2010 est <\s>
+<s> 387 kiribati 19,758 00 2010 est <\s>
+<s> 388 andorra 18,338 00 2010 est <\s>
+<s> 389 kiribati 17,941 00 2010 est <\s>
+<s> 390 virgin islands 17,675 00 2010 est <\s>
+<s> 391 antigua and barbuda 17,475 00 2010 est <\s>
+<s> 392 andorra 17,395 00 2010 est <\s>

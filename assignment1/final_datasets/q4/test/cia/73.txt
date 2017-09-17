@@ -1,0 +1,3400 @@
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>
+<s> 155 niger 5,367 2007 est <\s>
+<s> 156 greenland 5,172 2008 est <\s>
+<s> 157 faroe islands 4,922 2008 158 eritrea 4,790 2007 est <\s>
+<s> 159 antigua and barbuda 4,690 2007 est <\s>
+<s> 160 bermuda 4,500 2007 est <\s>
+<s> 161 afghanistan 4,404 2007 est <\s>
+<s> 162 mali 4,402 2007 est <\s>
+<s> 163 liberia 4,263 2007 est <\s>
+<s> 164 gabon 4,185 2007 est <\s>
+<s> 165 american samoa 4,140 2007 est <\s>
+<s> 166 swaziland 4,100 2007 est <\s>
+<s> 167 cayman islands 3,294 2007 est <\s>
+<s> 168 laos 3,080 2007 est <\s>
+<s> 169 azerbaijan 2,848 2007 est <\s>
+<s> 170 saint lucia 2,747 2007 est <\s>
+<s> 171 guinea-bissau 2,545 2007 est <\s>
+<s> 172 burundi 2,495 2007 est <\s>
+<s> 173 gambia the 2,266 2007 est <\s>
+<s> 174 central african republic 2,203 2007 est <\s>
+<s> 175 congo republic of the 2,136 2007 est <\s>
+<s> 176 grenada 1,923 2007 est <\s>
+<s> 177 western sahara 1,702 2007 est <\s>
+<s> 178 cape verde 1,619 2007 est <\s>
+<s> 179 chad 1,571 2007 est <\s>
+<s> 180 lesotho 1,553 2007 est <\s>
+<s> 181 saint vincent and the grenadines 1,451 2007 est <\s>
+<s> 182 solomon islands 1,323 2007 est <\s>
+<s> 183 bhutan 1,250 2008 est <\s>
+<s> 184 saint kitts and nevis 1,225 2007 est <\s>
+<s> 185 tonga 1,173 2007 est <\s>
+<s> 186 equatorial guinea 1,114 2007 est <\s>
+<s> 187 samoa 1,105 2007 est <\s>
+<s> 188 nauru 1,026 2007 est <\s>
+<s> 189 dominica 838                           2007 est <\s>
+<s> 190 comoros 766                           2007 est <\s>
+<s> 191 sao tome and principe 726                           2007 est <\s>
+<s> 192 british virgin islands 691                           2007 est <\s>
+<s> 193 vanuatu 654                           2007 est <\s>
+<s> 194 libya 575                           2007 est <\s>
+<s> 195 saint pierre and miquelon 564                           2007 est <\s>
+<s> 196 montserrat 521                           2007 est <\s>
+<s> 197 cook islands 495                           2007 est <\s>
+<s> 198 falkland islands islas malvinas 271                           2007 est <\s>
+<s> 199 kiribati 261                           2007 est <\s>
+<s> 200 brunei 238                           2007 est <\s>
+<s> 201 saint helena ascension and tristan da cunha 80 2007 est <\s>
+<s> 202 turks and caicos islands 80 2007 est <\s>
+<s> 203 niue 31 2007 est <\s>
+<s> 204 kuwait 0 2007 est <\s>
+<s> 205 mongolia 0 2009 206 venezuela 0 2007 est <\s>
+<s> 207 turkmenistan 0 2009 est <\s>
+<s> 208 qatar 0 2008 est <\s>
+<s> rank code 2176 country comparison :: oil exports this entry is the total oil exported in barrels per day bbl day including both crude oil and oil products <\s>
+<s> rank country bbl day date of information 1 saudi arabia 8,728 000                     2007 est <\s>
+<s> 2 russia 5,430 000                     2009 3 united arab emirates 2,700 000                     2007 est <\s>
+<s> 4 kuwait 2,349 000                     2007 est <\s>
+<s> 5 nigeria 2,327 000                     2007 est <\s>
+<s> 6 iran 2,210 000                     2009 est <\s>
+<s> 7 european union 2,196 000                     2008 est <\s>
+<s> 8 venezuela 2,182 000                     2007 est <\s>
+<s> 9 norway 2,061 000                     2008 est <\s>
+<s> 10 canada 2,001 000                     2008 est <\s>
+<s> 11 iraq 1,910 000                     2009 est <\s>
+<s> 12 algeria 1,891 000                     2007 est <\s>
+<s> 13 united states 1,704 000                     2008 est <\s>
+<s> 14 netherlands 1,660 000                     2008 est <\s>
+<s> 15 libya 1,542 000                     2007 est <\s>
+<s> 16 angola 1,407 000                     2007 est <\s>
+<s> 17 united kingdom 1,393 000                     2008 est <\s>
+<s> 18 kazakhstan 1,345 000                     2009 est <\s>
+<s> 19 singapore 1,289 000                     2007 est <\s>
+<s> 20 mexico 1,225 000                     2009 est <\s>
+<s> 21 korea south 907,100 2009 22 qatar 753,000 2008 est <\s>
+<s> 23 india 738,600 2007 est <\s>
+<s> 24 france 597,800 2008 est <\s>
+<s> 25 oman 593,700 2008 est <\s>
+<s> 26 italy 586,900 2008 est <\s>
+<s> 27 brazil 570,100 2007 est <\s>
+<s> 28 germany 536,600 2008 est <\s>
+<s> 29 azerbaijan 528,900 2007 est <\s>
+<s> 30 malaysia 511,900 2007 est <\s>
+<s> 31 belgium 433,700 2008 est <\s>
+<s> 32 china 388,000 2008 est <\s>
+<s> 33 virgin islands 388,000 2007 est <\s>
+<s> 34 japan 380,900 2008 est <\s>
+<s> 35 equatorial guinea 362,900 2007 est <\s>
+<s> 36 taiwan 359,800 2009 est <\s>
+<s> 37 ecuador 327,600 2009 est <\s>
+<s> 38 argentina 314,400 2007 est <\s>
+<s> 39 australia 311,900 2008 est <\s>
+<s> 40 belarus 303,900 2007 est <\s>
+<s> 41 sudan 303,800 2007 est <\s>
+<s> 42 colombia 294,000 2008 est <\s>
+<s> 43 yemen 274,400 2007 est <\s>
+<s> 44 thailand 269,100 2009 est <\s>
+<s> 45 denmark 268,500 2008 est <\s>
+<s> 46 sweden 248,500 2008 est <\s>
+<s> 47 trinidad and tobago 248,300 2007 est <\s>
+<s> 48 congo republic of the 241,100 2007 est <\s>
+<s> 49 bahrain 238,300 2007 est <\s>

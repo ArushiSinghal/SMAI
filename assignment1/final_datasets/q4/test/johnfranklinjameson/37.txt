@@ -1,0 +1,3500 @@
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>
+<s> mocha 156-159 168 193 <\s>
+<s> _mocha_ 178 198 n 200 203 209 _see also _resolution_ 2 <\s>
+<s> _modern reports 378 n <\s>
+<s> _modest enquiry a_ 240 n <\s>
+<s> moedes antony de 13 14 <\s>
+<s> mohelli island 167 193 197 <\s>
+<s> mohammedan pirate turned 240 _see also moors <\s>
+<s> mole-saint-nicolas 421 n 422 <\s>
+<s> mompesson roger admiralty judge 517 n <\s>
+<s> mona island w i 204 211 233 235 246 247 <\s>
+<s> money colonial _see_ currency <\s>
+<s> monte christi ecuador 117 <\s>
+<s> montserrat w i 42 141 n <\s>
+<s> moone william 405 412 413 415 430 <\s>
+<s> moore _lieut gov henry 541 n <\s>
+<s> moore william 251 n 254 <\s>
+<s> moors mohammedans of india 168 169 176 181 183 184 197 203 208 225 255 <\s>
+<s> mora de sama 108 <\s>
+<s> morgan _col edward 39 <\s>
+<s> morgan evan 395 397 416 <\s>
+<s> sir henry 84 n 99 n 100 letter 133-135 <\s>
+<s> morrice _capt john 36 37 <\s>
+<s> morrice _lieut thomas 24 25 <\s>
+<s> morrine john pirate 142 <\s>
+<s> morris elizabeth maid 219 n <\s>
+<s> morris gouverneur 529 n <\s>
+<s> morris _capt isaac 309 <\s>
+<s> morris _gov lewis 529 n <\s>
+<s> morris lewis admiralty judge 518 n 529 542 567 n 569 573 n 574 <\s>
+<s> morris lewis signer 529 n 574 n <\s>
+<s> morris richard admiralty judge 321 n 517 n 529 n 533 573 n <\s>
+<s> morris staats long 574 <\s>
+<s> mortimer _capt robert 332 <\s>
+<s> moseley _capt samuel 80 <\s>
+<s> mostyn _capt thomas 186 <\s>
+<s> mues _capt william 167 <\s>
+<s> mumford william 468 576 <\s>
+<s> munro benjamin deposition 510-512 <\s>
+<s> munro w h _history of bristol 513 n _tales from an old sea port 511 n 572 n <\s>
+<s> murphy henry c _journal of a voyage to new york 182 n <\s>
+<s> myerhoffer henry 537 540 541 543 546 548 549 554 565 566 <\s>
+<s> nanfan _lieut gov john 197 228 <\s>
+<s> nansemond county va 262 n <\s>
+<s> nantasket mass 145 n 291 296 303 <\s>
+<s> nantes 420 503 504 <\s>
+<s> nantucket sound 291 n <\s>
+<s> naos island 99 n <\s>
+<s> narbrough _sir_ john r n 135 <\s>
+<s> naskeag maine 75 78 <\s>
+<s> nason _sir_ charles henry frankland 413 n <\s>
+<s> nassau bahamas 1 n _see also new providence <\s>
+<s> nassau island _see_ long island <\s>
+<s> nauset island 297 n <\s>
+<s> nauset light 292 n <\s>
+<s> naushon island 319 n <\s>
+<s> navarra y rocaful _don_ melchor de viceroy 123 124 <\s>
+<s> navy office 451 452 <\s>
+<s> negro certificate of freedom 586 <\s>
+<s> negro conspiracy 385 n <\s>
+<s> netherlands spanish war with 3 n 13-17 19 n war with france 74 n <\s>
+<s> nevis 141 n 142 n buccaneers at 136 137 <\s>
+<s> newcastle _duke of_ thomas holles pelham 383 <\s>
+<s> _new england historical and genealogical register 190 n 297 n 329 n 330 n 344 n 345 n <\s>
+<s> newfoundland banks 314 ship from 391 sloop 389 <\s>
+<s> newgate 245 n 253 256 <\s>
+<s> new hampshire _state papers 139 n vote of council 139 n <\s>
+<s> new holland maine 74 n <\s>
+<s> _new jersey archives 144 n 556 n <\s>
+<s> newport r i trinity church 223 n <\s>
+<s> _newport historical magazine 581 n <\s>
+<s> new providence 1 n 160-162 169 171 172 178 180 317 n 401 425 _revenge_ at 405-415 <\s>
+<s> newton a p _colonizing activities of the english puritans 1 n 2 n <\s>
+<s> newy _capt charles 252 <\s>
+<s> new york admiralty court 143 documents from xv 529-571 581-586 <\s>
+<s> new york city _revenge_ at 383-392 ships from 177 183 186 198 sloop 213 surrogate's office documents from xv 141-144 <\s>
+<s> new york colony and state archives documents from xv 9-17 187 _assembly journals 190 n _calendar of council minutes 144 n 222 n 534 n 535 n 548 n _calendar of historical mss 530 n 534 n 581 n 586 n _colonial documents 182 n 211 n 222 n 277 n 386 n 423 n 529 n 531 n _documentary history 534 n <\s>
+<s> new york district court _see_ new york admiralty court <\s>
+<s> _new york gazette 573 n <\s>
+<s> _new york genealogical and biographical record 529 n 581 n <\s>
+<s> new york historical society _collections_ 219 n _publications_ 529 n 534 n <\s>
+<s> _new york mercury 556 n 581 n <\s>
+<s> new york public library 454 n 465 n document from xv 346-347 <\s>
+<s> nichols b r _argument in peele vs <\s>
+<s> merchants insurance co 347 n <\s>
+<s> nichols jonathan agreement 463-465 <\s>
+<s> nichols richard admiralty register 534 542 <\s>
+<s> nicholson _gov francis 273 274 n letter to capt <\s>
+<s> passenger 268-269 letters to 264-266 267-268 269-270 orders 259-262 <\s>
+<s> nicoll benjamin 573 n <\s>
+<s> nicoy gulf of 119-121 <\s>
+<s> nixon samuel 415 416 417 419 <\s>
+<s> noble john article 347 n <\s>
+<s> nodal bartolom Ã © and gonzalo 128 _relacion_ 128 n 129 n <\s>
+<s> noddle's island 345 n <\s>
+<s> noel garret interpreter 534 542 555 <\s>
+<s> noiret franssoys 15 17 <\s>
+<s> norden nathaniel 324 338 <\s>
+<s> norfolk county va 262 n <\s>
+<s> north carolina _colonial records 535 n 548 n _state records 409 n <\s>
+<s> northumberland county va 260 <\s>

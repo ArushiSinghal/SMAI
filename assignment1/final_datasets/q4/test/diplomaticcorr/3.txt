@@ -1,0 +1,800 @@
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>
+<s> committee of secret correspondence to captain larkin hammond <\s>
+<s> baltimore 2d january 1777 249 to the committee of secret correspondence <\s>
+<s> paris 17th january 1777 250 audience of vergennes privateers german troops in the british service disposition of the french <\s>
+<s> the committee of secret correspondence to william bingham at martinique <\s>
+<s> baltimore 1st february 1777 255 the committee of secret correspondence to the commissioners <\s>
+<s> baltimore 2d february 1777 257 want of ships of war reverses of the british in the jerseys new levies <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 6th february 1777 260 tobacco german troops offers of supplies and service mr lee goes to spain no danger from russia <\s>
+<s> to the president of congress <\s>
+<s> paris 6th february 1777 264 introducing m <\s>
+<s> agreement between the commissioners and certain french officers 265 committee of secret correspondence to the commissioners <\s>
+<s> baltimore 19th february 1777 266 military events preparations in great britain urgent necessity of aid disposition of spain <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 4th march 1777 269 complain of want of intelligence <\s>
+<s> to the committee of secret correspondence <\s>
+<s> paris 12th march 1777 270 want of intelligence from america particular accounts of their proceedings and favorable but cautious policy of the french court disposition of holland of spain secret supplies from the latter loan of two millions sterling applications for service from foreign officers contract for 5000 hogsheads tobacco with the farmers-general all europe favorable to the american cause english and french fleet sir j <\s>
+<s> yorke's memorial to holland contract for monthly packets <\s>
+<s> agreement between messrs franklin and deane and the farmers-general of france for the sale of a quantity of tobacco 282 agreement for packets between m <\s>
+<s> ray de chaumont on the one part and benjamin franklin and silas deane on the other 284 to jonathan williams <\s>
+<s> paris 1st may 1777 285 from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 2d may 1777 286 urge them to engage french merchants in american trade british generals discouraged return of congress to philadelphia state of the army <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia 9th may 1777 290 introducing j <\s>
+<s> paul jones his captain's commission <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 25th may 1777 291 mr lee goes to berlin necessity of a free port in germany cunningham lafayette goes to america <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 26th may 1777 296 warfare on the british successful and important importance of a naval force in the german ocean and of carrying the war into great britain <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia may 30th 1777 300 loan importance of america to britain in the french war facilities for an attack on the west indies <\s>
+<s> dunkirk 2d june 1777 302 importance of a naval force on the british coast at st helena to intercept the east india fleet <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 13th 1777 304 position of the armies in the jerseys in the north favorable aspect of affairs <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 18th 1777 306 military operations answer of the states-general to sir j <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia june 26th 1777 309 military operations <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia july 2d 1777 310 military operations commission and instructions for william lee to vienna and berlin for ralph izard to tuscany <\s>
+<s> count de vergennes to the commissioners <\s>
+<s> versailles 16th july 1777 311 complains of american privateers for violating neutrality <\s>
+<s> to count de vergennes <\s>
+<s> paris 17th july 1777 314 apology for the american privateers <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> philadelphia august 7th 1777 315 military operations loss of ticonderoga <\s>
+<s> to count de vergennes <\s>
+<s> versailles august 12th 1777 317 arrest of mr hodge <\s>
+<s> messrs franklin and deane's contract with m <\s>
+<s> holker 318 to the committee of foreign affairs <\s>
+<s> passy 8th september 1777 319 mr lee's return from berlin disposition of prussia england and france equally averse to begin hostilities english funds losing credit on the continent english trade in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 323 military operations burgoyne fort schuyler bennington middle department brandywine howe enters philadelphia germantown <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 6th october 1777 330 difficulty of raising money by appropriation of vacant land loan of twenty millions <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 7th october 1777 332 secret supplies from france complain of failure of remittances propositions for forming a commercial company at emden <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> yorktown 18th october 1777 336 military operations british property in french bottoms <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 31st october 1777 338 surrender of burgoyne attack on red bank <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 8th november 1777 340 announcing the election of h <\s>
+<s> laurens as president of congress <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy 30th november 1777 340 remit supplies capture of neutral vessels by american privateers king of england's speech opposition in parliament <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 1st december 1777 346 difficulties in regard to french officers their return to france <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 2d december 1777 349 military operations confederation passed by congress submitted to the states expenditures emission of paper money unfavorable position of american commerce an expedition to the east india seas proposed <\s>
+<s> to the committee of foreign affairs <\s>
+<s> paris 18th december 1777 355 news of burgoyne's surrender in france french court determine to acknowledge independence to make a treaty of amity and commerce additional aid of three millions of livres from france and from spain french ambassador at london insulted english stocks fall treatment of american prisoners in england <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 12th january 1778 359 loss of the despatches by folger <\s>
+<s> to john paul jones <\s>
+<s> paris 16th january 1778 361 instructions for a cruise in the ranger <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york 21st january 1778 362 military operations <\s>
+<s> to the president of congress <\s>
+<s> passy february 8th 1778 364 treaties with france signed secret clause in respect to spain <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 16th 1778 366 remit treaties with france intimations from holland english agents at paris endeavor to get propositions from the commissioners as the basis of a treaty alarm in england mansfield proposes a coalition to camden <\s>
+<s> to the committee of foreign affairs <\s>
+<s> passy february 28th 1778 369 lord north's plan of conciliation its insidious character advise the occupation of the bermudas and reduction of english fishing ports in and near newfoundland <\s>
+<s> from the committee of foreign affairs to william bingham <\s>
+<s> york march 2d 1778 372 commercial <\s>
+<s> gerard to the commissioners <\s>
+<s> versailles march 17th 1778 374 announces that the king will receive them <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york march 24th 1778 375 effect of depreciation of currency <\s>
+<s> paris april 10th 1778 376 enclosing a draught of a letter to the grand pensionary <\s>
+<s> draught of a proposed letter from the commissioners to the grand pensionary 377 announcing the treaty with france <\s>
+<s> passy april 10th 1778 377 arrival of mr adams to succeed mr deane request his opinion on the propriety of sending a minister to holland <\s>
+<s> to mr john ross <\s>
+<s> passy april 13th 1778 379 commercial <\s>
+<s> from the committee of foreign affairs to william bingham at martinique <\s>
+<s> york april 16th 1778 380 commercial board <\s>
+<s> from the committee of foreign affairs to the commissioners <\s>
+<s> york april 16th 1778 382 m <\s>
+<s> de sartine to count de vergennes <\s>
+<s> versailles april 26th 1778 382 protection of commerce in the french seas <\s>

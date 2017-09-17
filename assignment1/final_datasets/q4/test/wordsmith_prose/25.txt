@@ -1,0 +1,2400 @@
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>
+<s> on the wye 21 <\s>
+<s> at home again 22 <\s>
+<s> early visit to the lake district 23 <\s>
+<s> on a tour 1799 24 <\s>
+<s> at the lakes letter to coleridge 25 <\s>
+<s> inconsistent opinions on poems 26 <\s>
+<s> on his scottish tour to scott 27 <\s>
+<s> spenser and milton 29 <\s>
+<s> of dryden to scott 31 <\s>
+<s> the war in spain c <\s>
+<s> the convention of cintra 37 <\s>
+<s> home at grasmere 38 <\s>
+<s> on education of the young 39 <\s>
+<s> death of children 41 <\s>
+<s> letter of introduction humour 42 <\s>
+<s> the peninsular war 43 <\s>
+<s> of alleged changes in political opinions 45 <\s>
+<s> of his poems c <\s>
+<s> of thanksgiving ode c <\s>
+<s> of poems in stanzas 48 and 49 <\s>
+<s> the classics aeneid c <\s>
+<s> tour on the continent 1820 51 <\s>
+<s> shakspeare's cliff at dover 52 <\s>
+<s> of affairs on the continent 1828 53 <\s>
+<s> style francis edgeworth c <\s>
+<s> of the icon basilik ?? c <\s>
+<s> of the r c <\s>
+<s> of ireland and the poor laws 58 <\s>
+<s> of lonsdale virgil c <\s>
+<s> poems of moxon 60 <\s>
+<s> of hamilton's it haunts c <\s>
+<s> of collins dyer c <\s>
+<s> verses and counsels 63 <\s>
+<s> annuals and roguery 64 <\s>
+<s> works of peele c <\s>
+<s> lady winchelsea tickell c <\s>
+<s> hamilton's spirit of beauty c <\s>
+<s> works of webster c <\s>
+<s> french revolution 1830 71 <\s>
+<s> nonsense rotten boroughs c <\s>
+<s> tour in scotland 74 <\s>
+<s> sir walter scott 75 <\s>
+<s> of writing more prose 76 <\s>
+<s> of poetry and prose c <\s>
+<s> of the reform bill 78 <\s>
+<s> of political affairs 79 <\s>
+<s> illness of sister c <\s>
+<s> tuition at the university 83 <\s>
+<s> dissenters in university 84 <\s>
+<s> popularity of poetry 91 <\s>
+<s> sonnets and female poets c <\s>
+<s> church of england 96 <\s>
+<s> omnipresence of the deity 97 <\s>
+<s> new church at cockermouth 99 <\s>
+<s> classic scenes holy land 100 <\s>
+<s> on a tour 103 <\s>
+<s> bentley and akenside 104 <\s>
+<s> presidency of royal irish academy c <\s>
+<s> of his own poems c <\s>
+<s> in the sheldonian theatre 108 <\s>
+<s> new edition of poems 109 and 110 <\s>
+<s> death of a nephew 111 <\s>
+<s> on death of a young person 112 <\s>
+<s> religion and versified religion 113 <\s>
+<s> visit of queen adelaide 115 <\s>
+<s> ecclesiastical duties and revenues act c <\s>
+<s> samuel rogers and wordsworth 117 <\s>
+<s> an alarming accident 118 <\s>
+<s> of alston and haydon c <\s>
+<s> of peace's apology for cathedrals 120 <\s>
+<s> of cowper's task 121 <\s>
+<s> on a tour 122 <\s>
+<s> marriage of dora 123 <\s>
+<s> letters to brother 124 <\s>
+<s> episcopal church of america emerson and carlyle 125 <\s>
+<s> old haunts revisited 126 <\s>
+<s> no pension sought 127 <\s>
+<s> the master of trinity 128 <\s>
+<s> alston's portrait of coleridge 129 <\s>
+<s> tropical scenery grace darling 131 <\s>
+<s> contemporary poets southey's death c <\s>
+<s> the same landor c <\s>
+<s> alston home occupations 135 <\s>
+<s> birthday in america c <\s>
+<s> class fellows and school fellows 140 <\s>
+<s> from home queen c <\s>
+<s> the laureateship tennyson c <\s>
+<s> poems of imagination c <\s>
+<s> of the college of maynooth c <\s>
+<s> of the heresiarch church of rome 145 <\s>
+<s> bishop white mormonites c <\s>
+<s> governor malartie lord rector c <\s>
+<s> death of dora 150 <\s>
+<s> to john peace esq <\s>
+<s> a servant's illness and death 152 <\s>
+<s> conversations and personal reminiscences of wordsworth <\s>
+<s> from satyrane's letters klopstock personal reminiscences of the hon <\s>
+<s> justice coleridge recollections of a tour in italy by h c <\s>
+<s> robinson reminiscences of lady richardson and mrs <\s>
+<s> davy conversations and reminiscences recorded by the bishop of lincoln reminiscences of the rev <\s>

@@ -1,0 +1,1400 @@
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>
+<s> 143 macedonia 1.30 2010 est <\s>
+<s> 144 serbia 1.30 2010 est <\s>
+<s> 145 cook islands 1.00 2002 146 tonga 1.00 2003 est <\s>
+<s> 147 swaziland 1.00 2010 est <\s>
+<s> 148 slovenia 1.00 2010 est <\s>
+<s> 149 el salvador 0.90 2010 est <\s>
+<s> 150 portugal 0.90 2010 est <\s>
+<s> 151 cuba 0.80 2010 est <\s>
+<s> 152 italy 0.50 2010 est <\s>
+<s> 153 bulgaria 0.40 2010 est <\s>
+<s> 154 norway 0.30 2010 est <\s>
+<s> 155 cyprus 0.10 2010 est <\s>
+<s> 156 hong kong -0.30 2010 est <\s>
+<s> 157 croatia -0.90 2010 est <\s>
+<s> 158 maldives -0.90 2004 est <\s>
+<s> 159 iceland -1.00 2010 est <\s>
+<s> 160 latvia -1.80 2010 est <\s>
+<s> 161 jamaica -2.00 2010 est <\s>
+<s> 162 spain -2.00 2010 est <\s>
+<s> 163 barbados -3.20 2000 est <\s>
+<s> 164 brunei -5.40 2008 est <\s>
+<s> 165 haiti -8.00 2010 est <\s>
+<s> 166 venezuela -8.00 2010 est <\s>
+<s> rank code 2090 country comparison :: industries this entry provides a rank ordering of industries starting with the largest by value of annual output <\s>
+<s> rank country industries date of information rank code 2091 country comparison :: infant mortality rate this entry gives the number of deaths of infants under one year old in a given year per 1,000 live births in the same year included is the total death rate and deaths by sex male and female <\s>
+<s> this rate is often used as an indicator of the level of health in a country <\s>
+<s> rank country deaths 1,000 live births date of information 1 angola 178.13 2010 est <\s>
+<s> 2 afghanistan 151.50 2010 est <\s>
+<s> 3 niger 114.50 2010 est <\s>
+<s> 4 mali 113.66 2010 est <\s>
+<s> 5 somalia 107.42 2010 est <\s>
+<s> 6 mozambique 103.82 2010 est <\s>
+<s> 7 central african republic 101.60 2010 est <\s>
+<s> 8 guinea-bissau 98.05 2010 est <\s>
+<s> 9 chad 97.05 2010 est <\s>
+<s> 10 nigeria 92.99 2010 est <\s>
+<s> 11 malawi 83.50 2010 est <\s>
+<s> 12 burkina faso 82.98 2010 est <\s>
+<s> 13 sierra leone 80.16 2010 est <\s>
+<s> 14 equatorial guinea 79.47 2010 est <\s>
+<s> 15 congo democratic republic of the 79.36 2010 est <\s>
+<s> 16 ethiopia 78.99 2010 est <\s>
+<s> 17 congo republic of the 77.93 2010 est <\s>
+<s> 18 liberia 76.43 2010 est <\s>
+<s> 19 sudan 72.39 2010 est <\s>
+<s> 20 zambia 68.40 2010 est <\s>
+<s> 21 tanzania 68.13 2010 est <\s>
+<s> 22 gambia the 67.49 2010 est <\s>
+<s> 23 swaziland 66.71 2010 est <\s>
+<s> 24 cote d'ivoire 66.43 2010 est <\s>
+<s> 25 rwanda 65.57 2010 est <\s>
+<s> 26 pakistan 65.32 2010 est <\s>
+<s> 27 comoros 64.61 2010 est <\s>
+<s> 28 uganda 63.70 2010 est <\s>
+<s> 29 burundi 63.38 2010 est <\s>
+<s> 30 benin 63.13 2010 est <\s>
+<s> 31 guinea 63.09 2010 est <\s>
+<s> 32 cameroon 62.15 2010 est <\s>
+<s> 33 western sahara 61.97 2010 est <\s>
+<s> 34 mauritania 61.94 2010 est <\s>
+<s> 35 laos 61.19 2010 est <\s>
+<s> 36 senegal 57.70 2010 est <\s>
+<s> 37 cambodia 56.94 2010 est <\s>
+<s> 38 yemen 56.77 2010 est <\s>
+<s> 39 djibouti 56.65 2010 est <\s>
+<s> 40 lesotho 56.42 2010 est <\s>
+<s> 41 mayotte 54.75 2010 est <\s>
+<s> 42 sao tome and principe 54.64 2010 est <\s>
+<s> 43 haiti 54.02 2011 est <\s>
+<s> 44 kenya 53.49 2010 est <\s>
+<s> 45 togo 53.23 2010 est <\s>
+<s> 46 azerbaijan 52.84 2010 est <\s>
+<s> 47 madagascar 52.84 2010 est <\s>
+<s> 48 bangladesh 52.54 2010 est <\s>
+<s> 49 gabon 50.88 2010 est <\s>
+<s> 50 burma 50.76 2010 est <\s>
+<s> 51 korea north 50.15 2010 est <\s>
+<s> 52 ghana 49.89 2010 est <\s>
+<s> 53 india 49.13 2010 est <\s>
+<s> 54 vanuatu 48.17 2010 est <\s>
+<s> 55 bhutan 46.92 2010 est <\s>
+<s> 56 nepal 46.00 2010 est <\s>
+<s> 57 namibia 45.52 2010 est <\s>
+<s> 58 papua new guinea 44.59 2010 est <\s>
+<s> 59 world 44.13 2009 est <\s>
+<s> 60 turkmenistan 43.84 2010 est <\s>
+<s> 61 south africa 43.78 2010 est <\s>
+<s> 62 iran 43.45 2010 est <\s>
+<s> 63 bolivia 43.41 2010 est <\s>
+<s> 64 iraq 43.16 2010 est <\s>
+<s> 65 eritrea 42.33 2010 est <\s>
+<s> 66 kiribati 40.13 2010 est <\s>
+<s> 67 tajikistan 39.78 2010 est <\s>
+<s> 68 timor-leste 39.32 2010 est <\s>
+<s> 69 mongolia 38.56 2010 est <\s>
+<s> 70 guyana 37.89 2010 est <\s>
+<s> 71 tuvalu 35.52 2010 est <\s>
+<s> 72 zimbabwe 30.90 2010 est <\s>
+<s> 73 kyrgyzstan 30.25 2010 est <\s>
+<s> 74 indonesia 28.94 2010 est <\s>

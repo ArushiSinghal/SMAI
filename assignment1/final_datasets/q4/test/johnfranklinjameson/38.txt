@@ -1,0 +1,3200 @@
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>
+<s> northwood timothy 384 389 395 416 417 418 424 <\s>
+<s> norton benjamin sr 318-319 320 <\s>
+<s> norton _capt benjamin of the _revenge_ 319 431-435 437 439 accounts against 453-461 agreement 463-465 appeal 443 444 commission 378-381 instructions to prize crew 425 journal of cruise 381-429 sails from conanicut 382 from sandy hook 393 captures sloop 399 at new providence 405-415 captures _invencible_ and _sarah_ 423 ); letter to owners 425-429 <\s>
+<s> norton _prof charles eliot 379 n 381 n 471 n <\s>
+<s> norton richard negro 384 395 416 <\s>
+<s> nottingham _earl of_ daniel finch 276 <\s>
+<s> _nuestra señora de los dolores y animas privateer 507 509 510 <\s>
+<s> nutt john pirate 323 n 325 328 329 331 339 340 <\s>
+<s> nuttall _mrs zelia _new light on drake 116 n <\s>
+<s> nymwegen treaty 82 n 84 n <\s>
+<s> ocracoke inlet 399 410 <\s>
+<s> ogle _admiral sir chaloner 317 n 363 469 n <\s>
+<s> ogleby james 384 394 397 416 <\s>
+<s> oglethorp richard 257 n <\s>
+<s> oglethorpe _gen james 402 404 n 543 n <\s>
+<s> old point comfort 265 n <\s>
+<s> oliver _capt james commission 32-33 <\s>
+<s> oort john 218 n <\s>
+<s> orange prince of 5 15 16 78 79 _see also william iii <\s>
+<s> orchilla w i 514 <\s>
+<s> orford _earl of_ _see_ russell _sir_ edward <\s>
+<s> orleans mass 293 n <\s>
+<s> orr patrick interpreter 476 <\s>
+<s> orvilliers _gov d 511 n <\s>
+<s> osborn _col roger 42 <\s>
+<s> oswald richard and co 508 <\s>
+<s> otis amos article 297 n <\s>
+<s> otis james 300 n <\s>
+<s> otis _col john 300 <\s>
+<s> overing john 442 bond 443-444 <\s>
+<s> oyapoc guiana 511 512 n 513 <\s>
+<s> paas _capt john 514 515 <\s>
+<s> paddisson george pirate 142 <\s>
+<s> padilla joseph notary 375 <\s>
+<s> paine ralph d _book of buried treasure 216 n 236 n 251 n 278 n <\s>
+<s> palanqui _capt french privateer 572 <\s>
+<s> palfrey john g _history of new england 253 n <\s>
+<s> palmas canary 373 n <\s>
+<s> palmer _capt benjamin 409 n <\s>
+<s> panama 84 attack of buccaneers on 99-101 <\s>
+<s> _pandour_ privateer 477 n <\s>
+<s> panous _kh [= o jah 159 <\s>
+<s> paracelsus plaster of 457 n <\s>
+<s> don pedro de 510 <\s>
+<s> partridge richard colonial agent 575 n <\s>
+<s> pasco _capt john 392 <\s>
+<s> passenger _capt william r n 259 n 265-268 270 273 274 letter of nicholson to 268-269 libel by 271-272 <\s>
+<s> passes french in kidd's case 208 209 225 248 251 <\s>
+<s> pater vaer hendrick jacobsen 9-11 <\s>
+<s> patterson robert 423 429 <\s>
+<s> patuxent river md 62 65 <\s>
+<s> paul _dr george 449 451 453 454 456 opinion 446-447 <\s>
+<s> payne henry trial 330-338 <\s>
+<s> payne john deputy register 354 378 439 442 444 <\s>
+<s> payne thomas 240 241 letter of sarah kidd to 223-224 <\s>
+<s> payta 107 125 136 137 <\s>
+<s> _peace_ _see_ _la paix <\s>
+<s> pearl islands panama 99 <\s>
+<s> pease of newport 320 <\s>
+<s> pedereros 109 n 544 n <\s>
+<s> pedro sancho negro 411 <\s>
+<s> _peggy_ privateer 530-534 536 541 542 544-548 552 554 556-559 568 <\s>
+<s> pemaquid maine 25 75 77 302 <\s>
+<s> pemberton _rev ebenezer 451 n <\s>
+<s> pendleton brian 30 31 32 43 <\s>
+<s> pendleton samuel admiralty judge decree 450-451 <\s>
+<s> penedo rodrigo francisco 479 <\s>
+<s> _pennsylvania_ province frigate 474 n <\s>
+<s> _pennsylvania archives 474 n <\s>
+<s> pennsylvania district court _see_ philadelphia admiralty court <\s>
+<s> _pennsylvania gazette 473 n 503 n 506 n 512 n 530 n <\s>
+<s> _pennsylvania magazine of history 474 n 477 n 504 n 507 n <\s>
+<s> penrice _sir_ henry letter 312-313 <\s>
+<s> peralta _don_ francisco de 99 100 105 107 110 111 <\s>
+<s> perdomo _capt francisco 450 <\s>
+<s> pereda antonio 487-489 491 declaration 485 486 <\s>
+<s> pereda estevan 485 488 <\s>
+<s> pereira da cunha francisco 28 <\s>
+<s> peres cayetano 537 539 <\s>
+<s> perico island 99 101 <\s>
+<s> perim island 167 n <\s>
+<s> perkins a t _sketch of the family of dumaresq 357 n <\s>
+<s> perkins samuel deposition 175-178 <\s>
+<s> peterson erasmus pirate execution 278-284 <\s>
+<s> petit goave haiti 132 133 n 295 304 471 <\s>
+<s> petty _sir_ william _political anatomy of ireland 163 n <\s>
+<s> pezuela _historia de cuba 420 n <\s>
+<s> philadelphia _memorial history 474 n 508 n <\s>
+<s> philadelphia sloop from 419 <\s>
+<s> philadelphia admiralty court documents from xv 473-492 502-510 case of the _princess of orange 473-492 <\s>
+<s> philip _king_ 81 n 175 n <\s>
+<s> philipse frederick 182 183 186 217 <\s>
+<s> philipse mary 182 n <\s>
+<s> phillips john 1 pirate 141 n 323 n 325 328 329 331 334 339-343 <\s>
+<s> phillips _capt john 2 332 <\s>
+<s> phillips william pirate 323 n 342 trial of 330-338 <\s>
+<s> phipps spencer 324 338 <\s>
+<s> sir william 145 n 152 n 186 n <\s>
+<s> piedsnoirs _capt françois 503-505 <\s>
+<s> piegnon _capt jacques deposition 502-506 <\s>

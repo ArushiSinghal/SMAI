@@ -1,0 +1,900 @@
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>
+<s> it emphasizes compassion for all living things seeks liberation of the human soul from reincarnation through enlightenment and values personal responsibility due to the belief in the immediate consequences of one's behavior <\s>
+<s> jain philosophy teaches non-violence and prescribes vegetarianism for monks and laity alike its adherents are a highly influential religious minority in indian society <\s>
+<s> judaism one of the first known monotheistic religions likely dating to between 2000-1500 b c judaism is the native faith of the jewish people based upon the belief in a covenant of responsibility between a sole omnipotent creator god and abraham the patriarch of judaism's hebrew bible or tanakh <\s>
+<s> divine revelation of principles and prohibitions in the hebrew scriptures form the basis of jewish law or halakhah which is a key component of the faith <\s>
+<s> while there are extensive traditions of jewish halakhic and theological discourse there is no final dogmatic authority in the tradition <\s>
+<s> local communities have their own religious leadership <\s>
+<s> modern judaism has three basic categories of faith orthodox conservative and reform liberal <\s>
+<s> these differ in their views and observance of jewish law with the orthodox representing the most traditional practice and reform liberal communities the most accommodating of individualized interpretations of jewish identity and faith <\s>
+<s> shintoism a native animist tradition of japan shinto practice is based upon the premise that every being and object has its own spirit or kami <\s>
+<s> shinto practitioners worship several particular kamis including the kamis of nature and families often have shrines to their ancestors kamis <\s>
+<s> shintoism has no fixed tradition of prayers or prescribed dogma but is characterized by individual ritual <\s>
+<s> respect for the kamis in nature is a key shinto value <\s>
+<s> prior to the end of world war ii shinto was the state religion of japan and bolstered the cult of the japanese emperor <\s>
+<s> sikhism founded by the guru nanak born 1469 sikhism believes in a non-anthropomorphic supreme eternal creator god centering one's devotion to god is seen as a means of escaping the cycle of rebirth <\s>
+<s> sikhs follow the teachings of nanak and nine subsequent gurus <\s>
+<s> their scripture the guru granth sahib also known as the adi granth is considered the living guru or final authority of sikh faith and theology <\s>
+<s> sikhism emphasizes equality of humankind and disavows caste class or gender discrimination <\s>
+<s> taoism chinese philosophy or religion based upon lao tzu's tao te ching which centers on belief in the tao or the way as the flow of the universe and the nature of things <\s>
+<s> taoism encourages a principle of non-force or wu-wei as the means to live harmoniously with the tao <\s>
+<s> taoists believe the esoteric world is made up of a perfect harmonious balance and nature while in the manifest world particularly in the body balance is distorted <\s>
+<s> the three jewels of the tao compassion simplicity and humility serve as the basis for taoist ethics <\s>
+<s> zoroastrianism originating from the teachings of zoroaster in about the 9th or 10th century b c zoroastrianism may be the oldest continuing creedal religion <\s>
+<s> its key beliefs center on a transcendent creator god ahura mazda and the concept of free will <\s>
+<s> the key ethical tenets of zoroastrianism expressed in its scripture the avesta are based on a dualistic worldview where one may prevent chaos if one chooses to serve god and exercises good thoughts good words and good deeds <\s>
+<s> zoroastrianism is generally a closed religion and members are almost always born to zoroastrian parents <\s>
+<s> prior to the spread of islam zoroastrianism dominated greater iran <\s>
+<s> today though a minority zoroastrians remain primarily in iran india and pakistan <\s>
+<s> reserves of foreign exchange and gold this entry gives the dollar value for the stock of all financial assets that are available to the central monetary authority for use in meeting a country's balance of payments needs as of the end-date of the period specified <\s>
+<s> this category includes not only foreign currency and gold but also a country's holdings of special drawing rights in the international monetary fund and its reserve position in the fund <\s>
+<s> roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> s school life expectancy primary to tertiary education school life expectancy sle is the total number of years of schooling primary to tertiary that a child can expect to receive assuming that the probability of his or her being enrolled in school at any particular future age is equal to the current enrollment ratio at that age <\s>
+<s> caution must be maintained when utilizing this indicator in international comparisons <\s>
+<s> for example a year or grade completed in one country is not necessarily the same in terms of educational content or quality as a year or grade completed in another country <\s>
+<s> sle represents the expected number of years of schooling that will be completed including years spent repeating one or more grades <\s>
+<s> sex ratio this entry includes the number of males for each female in five age groups at birth under 15 years 15-64 years 65 years and over and for the total population <\s>
+<s> sex ratio at birth has recently emerged as an indicator of certain kinds of sex discrimination in some countries <\s>
+<s> for instance high sex ratios at birth in some asian countries are now attributed to sex-selective abortion and infanticide due to a strong preference for sons <\s>
+<s> this will affect future marriage patterns and fertility patterns <\s>
+<s> eventually it could cause unrest among young adult males who are unable to find partners <\s>
+<s> stock of broad money this entry covers all of narrow money plus the total quantity of time and savings deposits credit union deposits institutional money market funds short-term repurchase agreements between the central bank and commercial deposit banks and other large liquid assets held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> in addition to serving as a medium of exchange broad money includes assets that are slightly less liquid than narrow money and the assets tend to function as a store of value a means of holding wealth <\s>
+<s> stock of direct foreign investment abroad this entry gives the cumulative us dollar value of all investments in foreign countries made directly by residents primarily companies of the home country as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of direct foreign investment at home this entry gives the cumulative us dollar value of all investments in the home country made directly by residents primarily companies of other countries as of the end of the time period indicated <\s>
+<s> direct investment excludes investment through purchase of shares <\s>
+<s> stock of domestic credit this entry is the total quantity of credit denominated in the domestic currency provided by financial institutions to the central bank state and local governments public non-financial corporations and the private sector <\s>
+<s> the national currency units have been converted to us dollars at the closing exchange rate on the date of the information <\s>
+<s> stock of narrow money this entry also know as m1 comprises the total quantity of currency in circulation notes and coins plus demand deposits denominated in the national currency held by nonbank financial institutions state and local governments nonfinancial public enterprises and the private sector of the economy measured at a specific point in time <\s>
+<s> national currency units have been converted to us dollars at the closing exchange rate for the date of the information <\s>
+<s> because of exchange rate movements changes in money stocks measured in national currency units may vary significantly from those shown in us dollars and caution is urged when making comparisons over time in us dollars <\s>
+<s> narrow money consists of more liquid assets than broad money and the assets generally function as a medium of exchange for an economy <\s>
+<s> suffrage this entry gives the age at enfranchisement and whether the right to vote is universal or restricted <\s>
+<s> t telephone numbers all telephone numbers in the world factbook consist of the country code in brackets the city or area code where required in parentheses and the local number <\s>
+<s> the one component that is not presented is the international access code which varies from country to country <\s>
+<s> for example an international direct dial telephone call placed from the us to madrid spain would be as follows 011 34 1 577 xxxx where 011 is the international access code for station-to-station calls 01 is for calls other than station-to-station calls 34 is the country code for spain 1 is the city code for madrid 577 is the local exchange and xxxx is the local telephone number <\s>
+<s> an international direct dial telephone call placed from another country to the us would be as follows international access code 1 202 939 xxxx where 1 is the country code for the us 202 is the area code for washington dc 939 is the local exchange and xxxx is the local telephone number <\s>
+<s> telephone system this entry includes a brief general assessment of the system with details on the domestic and international components <\s>
+<s> the following terms and abbreviations are used throughout the entry arabsat arab satellite communications organization riyadh saudi arabia <\s>
+<s> autodin automatic digital network us department of defense <\s>
+<s> cb citizen's band mobile radio communications <\s>
+<s> cellular telephone system the telephones in this system are radio transceivers with each instrument having its own private radio frequency and sufficient radiated power to reach the booster station in its area cell from which the telephone signal is fed to a telephone exchange <\s>
+<s> central american microwave system a trunk microwave radio relay system that links the countries of central america and mexico with each other <\s>
+<s> coaxial cable a multichannel communication cable consisting of a central conducting wire surrounded by and insulated from a cylindrical conducting shell a large number of telephone channels can be made available within the insulated space by the use of a large number of carrier frequencies <\s>
+<s> comsat communications satellite corporation us <\s>
+<s> dsn defense switched network formerly automatic voice network or autovon ); basic general-purpose switched voice network of the defense communications system us department of defense <\s>
+<s> eutelsat european telecommunications satellite organization paris <\s>
+<s> fiber-optic cable a multichannel communications cable using a thread of optical glass fibers as a transmission medium in which the signal voice video etc is in the form of a coded pulse of light <\s>
+<s> gsm a global system for mobile cellular communications devised by the groupe special mobile of the pan-european standardization organization conference europeanne des posts et telecommunications cept in 1982 <\s>
+<s> hf high frequency any radio frequency in the 3,000- to 30,000- khz range <\s>
+<s> inmarsat international maritime satellite organization london ); provider of global mobile satellite communications for commercial distress and safety applications at sea in the air and on land <\s>
+<s> intelsat international telecommunications satellite organization washington dc <\s>
+<s> intersputnik international organization of space communications moscow ); first established in the former soviet union and the east european countries it is now marketing its services worldwide with earth stations in north america africa and east asia <\s>
+<s> landline communication wire or cable of any sort that is installed on poles or buried in the ground <\s>
+<s> marecs maritime european communications satellite used in the inmarsat system on lease from the european space agency <\s>
+<s> marisat satellites of the comsat corporation that participate in the inmarsat system <\s>
+<s> medarabtel the middle east telecommunications project of the international telecommunications union itu providing a modern telecommunications network primarily by microwave radio relay linking algeria djibouti egypt jordan libya morocco saudi arabia somalia sudan syria tunisia and yemen it was initially started in morocco in 1970 by the arab telecommunications union atu and was known at that time as the middle east mediterranean telecommunications network <\s>
+<s> microwave radio relay transmission of long distance telephone calls and television programs by highly directional radio microwaves that are received and sent on from one booster station to another on an optical path <\s>
+<s> nmt nordic mobile telephone an analog cellular telephone system that was developed jointly by the national telecommunications authorities of the nordic countries denmark finland iceland norway and sweden <\s>
+<s> orbita a russian television service also the trade name of a packet-switched digital telephone network <\s>
+<s> radiotelephone communications the two-way transmission and reception of sounds by broadcast radio on authorized frequencies using telephone handsets <\s>
+<s> panamsat panamsat corporation greenwich ct <\s>
+<s> safe south african far east cable satellite communication system a communication system consisting of two or more earth stations and at least one satellite that provide long distance transmission of voice data and television the system usually serves as a trunk connection between telephone exchanges if the earth stations are in the same country it is a domestic system <\s>
+<s> satellite earth station a communications facility with a microwave radio transmitting and receiving antenna and required receiving and transmitting equipment for communicating with satellites <\s>
+<s> satellite link a radio connection between a satellite and an earth station permitting communication between them either one-way down link from satellite to earth station television receive-only transmission or two-way telephone channels <\s>
+<s> shf super high frequency any radio frequency in the 3,000- to 30,000- mhz range <\s>
+<s> shortwave radio frequencies from 1.605 to 30 mhz that fall above the commercial broadcast band and are used for communication over long distances <\s>
+<s> solidaridad geosynchronous satellites in mexico's system of international telecommunications in the western hemisphere <\s>
+<s> statsionar russia's geostationary system for satellite telecommunications <\s>
+<s> submarine cable a cable designed for service under water <\s>
+<s> tat trans-atlantic telephone any of a number of high-capacity submarine coaxial telephone cables linking europe with north america <\s>
+<s> telefax facsimile service between subscriber stations via the public switched telephone network or the international datel network <\s>
+<s> telegraph a telecommunications system designed for unmodulated electric impulse transmission <\s>
+<s> telex a communication service involving teletypewriters connected by wire through automatic exchanges <\s>
+<s> tropospheric scatter a form of microwave radio transmission in which the troposphere is used to scatter and reflect a fraction of the incident radio waves back to earth powerful highly directional antennas are used to transmit and receive the microwave signals reliable over-the-horizon communications are realized for distances up to 600 miles in a single hop additional hops can extend the range of this system for very long distances <\s>
+<s> trunk network a network of switching centers connected by multichannel trunk lines <\s>
+<s> uhf ultra high frequency any radio frequency in the 300 to 3,000- mhz range <\s>
+<s> vhf very high frequency any radio frequency in the 30 to 300 mhz range <\s>
+<s> telephones main lines in use this entry gives the total number of main telephone lines in use <\s>

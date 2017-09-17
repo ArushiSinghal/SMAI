@@ -1,0 +1,1900 @@
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>
+<s> 54 chile 1,628 000,000 00 2007 est <\s>
+<s> 55 syria 1,400 000,000 00 2007 56 estonia 1,369 000,000 00 2008 est <\s>
+<s> 57 ecuador 1,120 000,000 00 2007 est <\s>
+<s> 58 lebanon 1,114 000,000 00 2009 est <\s>
+<s> 59 romania 921,000 000.00 2008 est <\s>
+<s> 60 laos 819,500 000.00 2009 est <\s>
+<s> 61 turkey 790,000 000.00 2008 est <\s>
+<s> 62 uruguay 789,000 000.00 2007 est <\s>
+<s> 63 swaziland 770,000 000.00 2008 est <\s>
+<s> 64 ireland 753,000 000.00 2008 est <\s>
+<s> 65 tajikistan 667,800 000.00 2009 est <\s>
+<s> 66 benin 588,000 000.00 2007 est <\s>
+<s> 67 mexico 584,000 000.00 2008 est <\s>
+<s> 68 azerbaijan 548,000 000.00 2007 est <\s>
+<s> 69 togo 514,000 000.00 2007 est <\s>
+<s> 70 niger 450,000 000.00 2007 est <\s>
+<s> 71 congo republic of the 449,000 000.00 2007 est <\s>
+<s> 72 ghana 435,000 000.00 2007 est <\s>
+<s> 73 georgia 430,000 000.00 2007 est <\s>
+<s> 74 armenia 418,700 000.00 2007 est <\s>
+<s> 75 algeria 279,000 000.00 2007 est <\s>
+<s> 76 egypt 251,000 000.00 2007 est <\s>
+<s> 77 belize 248,400 000.00 2005 78 afghanistan 230,000 000.00 2007 est <\s>
+<s> 79 zambia 222,000 000.00 2008 est <\s>
+<s> 80 nepal 213,000 000.00 2008 est <\s>
+<s> 81 costa rica 203,200 000.00 2007 est <\s>
+<s> 82 jordan 200,000 000.00 2007 est <\s>
+<s> 83 tanzania 200,000 000.00 2007 est <\s>
+<s> 84 mongolia 186,100 000.00 2009 85 cambodia 167,000 000.00 2007 est <\s>
+<s> 86 tunisia 145,000 000.00 2007 est <\s>
+<s> 87 rwanda 130,000 000.00 2007 est <\s>
+<s> 88 serbia 121,000 000.00 2009 89 libya 77,000 000.00 2007 est <\s>
+<s> 90 nicaragua 63,950 000.00 2007 est <\s>
+<s> 91 lesotho 50,000 000.00 2008 est <\s>
+<s> 92 burundi 40,000 000.00 2007 est <\s>
+<s> 93 colombia 39,400 000.00 2007 94 el salvador 38,000 000.00 2007 est <\s>
+<s> 95 kenya 22,500 000.00 2007 est <\s>
+<s> 96 honduras 11,800 000.00 2007 est <\s>
+<s> 97 panama 8,740 000.00 2007 est <\s>
+<s> 98 guatemala 8,110 000.00 2007 est <\s>
+<s> 99 congo democratic republic of the 6,000 000.00 2007 est <\s>
+<s> 100 gaza strip 120,000 00 2009 101 american samoa 0.00 2008 est <\s>
+<s> 102 barbados 0.00 2008 est <\s>
+<s> 103 pakistan 0.00 2008 est <\s>
+<s> 104 oman 0.00 2008 est <\s>
+<s> 105 northern mariana islands 0.00 january 2009 est <\s>
+<s> 106 niue 0.00 2008 est <\s>
+<s> 107 nigeria 0.00 2008 est <\s>
+<s> 108 new zealand 0.00 2008 est <\s>
+<s> 109 new caledonia 0.00 2008 est <\s>
+<s> 110 nauru 0.00 2008 est <\s>
+<s> 111 iceland 0.00 2008 est <\s>
+<s> 112 taiwan 0.00 2009 est <\s>
+<s> 113 yemen 0.00 2008 est <\s>
+<s> 114 western sahara 0.00 2008 est <\s>
+<s> 115 wallis and futuna 0.00 2002 116 virgin islands 0.00 2008 est <\s>
+<s> 117 vanuatu 0.00 2008 est <\s>
+<s> 118 united arab emirates 0.00 2008 est <\s>
+<s> 119 ukraine 0.00 2009 est <\s>
+<s> 120 uganda 0.00 2008 est <\s>
+<s> 121 turks and caicos islands 0.00 2008 est <\s>
+<s> 122 turkmenistan 0.00 2009 est <\s>
+<s> 123 trinidad and tobago 0.00 2008 est <\s>
+<s> 124 tonga 0.00 2008 est <\s>
+<s> 125 timor-leste 0.00 2009 est <\s>
+<s> 126 suriname 0.00 2008 est <\s>
+<s> 127 sudan 0.00 2008 est <\s>
+<s> 128 sri lanka 0.00 2008 est <\s>
+<s> 129 somalia 0.00 2008 est <\s>
+<s> 130 solomon islands 0.00 2008 est <\s>
+<s> 131 singapore 0.00 2008 est <\s>
+<s> 132 sierra leone 0.00 2008 est <\s>
+<s> 133 seychelles 0.00 2008 est <\s>
+<s> 134 senegal 0.00 2008 est <\s>
+<s> 135 saudi arabia 0.00 2008 est <\s>
+<s> 136 sao tome and principe 0.00 2008 est <\s>
+<s> 137 samoa 0.00 2008 est <\s>
+<s> 138 saint vincent and the grenadines 0.00 2008 est <\s>
+<s> 139 saint pierre and miquelon 0.00 2008 est <\s>
+<s> 140 saint lucia 0.00 2008 est <\s>
+<s> 141 saint kitts and nevis 0.00 2008 est <\s>
+<s> 142 saint helena ascension and tristan da cunha 0.00 2008 est <\s>
+<s> 143 qatar 0.00 2008 est <\s>
+<s> 144 puerto rico 0.00 2008 est <\s>
+<s> 145 philippines 0.00 2008 est <\s>
+<s> 146 peru 0.00 2008 est <\s>
+<s> 147 paraguay 0.00 2008 est <\s>
+<s> 148 papua new guinea 0.00 2008 est <\s>
+<s> 149 haiti 0.00 2008 est <\s>
+<s> 150 guyana 0.00 2008 est <\s>
+<s> 151 guinea-bissau 0.00 2008 est <\s>
+<s> 152 guinea 0.00 2008 est <\s>
+<s> 153 guernsey 0.00 2002 154 grenada 0.00 2008 est <\s>
+<s> 155 greenland 0.00 2008 156 gabon 0.00 2008 est <\s>
+<s> 157 montserrat 0.00 2008 est <\s>
+<s> 158 montenegro 0.00 2005 159 micronesia federated states of 0.00 2002 160 mauritius 0.00 2008 est <\s>
+<s> 161 mauritania 0.00 2008 est <\s>
+<s> 162 malta 0.00 2009 est <\s>
+<s> 163 mali 0.00 2008 est <\s>
+<s> 164 maldives 0.00 2009 est <\s>

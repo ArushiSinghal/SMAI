@@ -1,0 +1,3000 @@
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>
+<s> 164 cyprus 0.10 2003 est <\s>
+<s> 165 croatia 0.10 2007 est <\s>
+<s> 166 bosnia and herzegovina 0.10 2007 est <\s>
+<s> 167 cape verde 0.04 na 168 afghanistan 0.01 2001 est <\s>
+<s> 169 saudi arabia 0.01 2001 est <\s>
+<s> 170 svalbard 0.00 2001 rank code 2156 country comparison :: hiv aids people living with hiv aids this entry gives an estimate of all people adults and children alive at yearend with hiv infection whether or not they have developed symptoms of aids <\s>
+<s> rank country hiv aids people living with hiv aidsdate of information 1 world 33,000 000                    2007 est <\s>
+<s> 2 south africa 5,700 000                     2007 est <\s>
+<s> 3 nigeria 2,600 000                     2007 est <\s>
+<s> 4 india 2,400 000                     2007 est <\s>
+<s> 5 mozambique 1,500 000                     2007 est <\s>
+<s> 6 tanzania 1,400 000                     2007 est <\s>
+<s> 7 zimbabwe 1,300 000                     2007 est <\s>
+<s> 8 kenya 1,200 000                     2003 est <\s>
+<s> 9 united states 1,200 000                     2007 est <\s>
+<s> 10 congo democratic republic of the 1,100 000                     2003 est <\s>
+<s> 11 zambia 1,100 000                     2007 est <\s>
+<s> 12 ethiopia 980,000 2007 est <\s>
+<s> 13 russia 940,000 2007 est <\s>
+<s> 14 uganda 940,000 2007 est <\s>
+<s> 15 malawi 930,000 2007 est <\s>
+<s> 16 brazil 730,000 2007 est <\s>
+<s> 17 china 700,000 2007 est <\s>
+<s> 18 thailand 610,000 2007 est <\s>
+<s> 19 cameroon 540,000 2007 est <\s>
+<s> 20 cote d'ivoire 480,000 2007 est <\s>
+<s> 21 ukraine 440,000 2007 est <\s>
+<s> 22 sudan 320,000 2007 est <\s>
+<s> 23 botswana 300,000 2007 est <\s>
+<s> 24 vietnam 290,000 2007 est <\s>
+<s> 25 indonesia 270,000 2007 est <\s>
+<s> 26 lesotho 270,000 2007 est <\s>
+<s> 27 ghana 260,000 2007 est <\s>
+<s> 28 burma 240,000 2007 est <\s>
+<s> 29 chad 200,000 2007 est <\s>
+<s> 30 mexico 200,000 2007 est <\s>
+<s> 31 namibia 200,000 2007 est <\s>
+<s> 32 angola 190,000 2007 est <\s>
+<s> 33 swaziland 190,000 2007 est <\s>
+<s> 34 colombia 170,000 2007 est <\s>
+<s> 35 central african republic 160,000 2007 est <\s>
+<s> 36 italy 150,000 2007 est <\s>
+<s> 37 rwanda 150,000 2007 est <\s>
+<s> 38 france 140,000 2007 est <\s>
+<s> 39 spain 140,000 2007 est <\s>
+<s> 40 burkina faso 130,000 2007 est <\s>
+<s> 41 togo 130,000 2007 est <\s>
+<s> 42 argentina 120,000 2007 est <\s>
+<s> 43 haiti 120,000 2007 est <\s>
+<s> 44 burundi 110,000 2007 est <\s>
+<s> 45 venezuela 110,000 1999 est <\s>
+<s> 46 mali 100,000 2007 est <\s>
+<s> 47 pakistan 96,000 2007 est <\s>
+<s> 48 guinea 87,000 2007 est <\s>
+<s> 49 iran 86,000 2007 est <\s>
+<s> 50 malaysia 80,000 2007 est <\s>
+<s> 51 congo republic of the 79,000 2007 est <\s>
+<s> 52 united kingdom 77,000 2007 est <\s>
+<s> 53 peru 76,000 2007 est <\s>
+<s> 54 cambodia 75,000 2007 est <\s>
+<s> 55 canada 73,000 2007 est <\s>
+<s> 56 nepal 70,000 2007 est <\s>
+<s> 57 senegal 67,000 2007 est <\s>
+<s> 58 benin 64,000 2007 est <\s>
+<s> 59 dominican republic 62,000 2007 est <\s>
+<s> 60 niger 60,000 2007 est <\s>
+<s> 61 guatemala 59,000 2007 est <\s>
+<s> 62 sierra leone 55,000 2007 est <\s>
+<s> 63 papua new guinea 54,000 2007 est <\s>
+<s> 64 germany 53,000 2007 est <\s>
+<s> 65 gabon 49,000 2007 est <\s>
+<s> 66 eritrea 38,000 2007 est <\s>
+<s> 67 el salvador 35,000 2007 est <\s>
+<s> 68 liberia 35,000 2007 est <\s>
+<s> 69 portugal 34,000 2007 est <\s>
+<s> 70 chile 31,000 2007 est <\s>
+<s> 71 honduras 28,000 2007 est <\s>
+<s> 72 jamaica 27,000 2007 est <\s>
+<s> 73 ecuador 26,000 2007 est <\s>
+<s> 74 switzerland 25,000 2007 est <\s>
+<s> 75 somalia 24,000 2007 est <\s>
+<s> 76 algeria 21,000 2007 est <\s>
+<s> 77 morocco 21,000 2007 est <\s>
+<s> 78 paraguay 21,000 2007 est <\s>
+<s> 79 panama 20,000 2007 est <\s>
+<s> 80 poland 20,000 2007 est <\s>
+<s> 81 australia 18,000 2007 est <\s>
+<s> 82 netherlands 18,000 2007 est <\s>
+<s> 83 djibouti 16,000 2007 est <\s>
+<s> 84 uzbekistan 16,000 2007 est <\s>
+<s> 85 guinea-bissau 16,000 2007 est <\s>
+<s> 86 belgium 15,000 2007 est <\s>
+<s> 87 romania 15,000 2007 est <\s>
+<s> 88 madagascar 14,000 2007 est <\s>
+<s> 89 mauritania 14,000 2007 est <\s>
+<s> 90 trinidad and tobago 14,000 2007 est <\s>
+<s> 91 belarus 13,000 2007 est <\s>
+<s> 92 guyana 13,000 2007 est <\s>
+<s> 93 mauritius 13,000 2007 est <\s>
+<s> 94 korea south 13,000 2007 est <\s>

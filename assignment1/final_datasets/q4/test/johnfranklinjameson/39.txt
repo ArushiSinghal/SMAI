@@ -1,0 +1,700 @@
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>
+<s> pierre negro 332 343 <\s>
+<s> pietersen claes petition 138-141 <\s>
+<s> pinckney _gov charles 518 n <\s>
+<s> pinckney william deputy secretary 518 <\s>
+<s> _pine tree case 440 n <\s>
+<s> piracy agreement to commit 141-142 commissions for trial 143-144 286-290 577-580 definition ix famous cases xiv procedure in trials xiii punishment 217 <\s>
+<s> pitt william the elder _correspondence_ 529 n 535 n <\s>
+<s> plumb _capt 316 n <\s>
+<s> plymouth eng 64 136 137 170 206 <\s>
+<s> plymouth mass 72 258 <\s>
+<s> pollard benjamin notary 499 501 sheriff 502 <\s>
+<s> ponce _capt 422 n 423 437 <\s>
+<s> ponce antonio notary 555 <\s>
+<s> ponsonby _capt henry 277 <\s>
+<s> popple william secretary 232 243 n <\s>
+<s> port-au-prince haiti 471 n privateers at 571 <\s>
+<s> porteen _capt 136 137 <\s>
+<s> portland _duke of_ documents from xv _see_ welbeck abbey <\s>
+<s> _portland mss 205 n 219 n 251 n 252 n <\s>
+<s> portledge bills 51 486-487 <\s>
+<s> port louis guadeloupe w i 573 n <\s>
+<s> port morant jamaica 85 387 <\s>
+<s> portobello 84 n 472 buccaneers attack on 84-92 <\s>
+<s> porto rico 196 245 246 258 <\s>
+<s> port orient _see_ lorient <\s>
+<s> port royal jamaica 30 31 35 541 543 <\s>
+<s> portsmouth n h 31 32 41 43 44 48-51 60-63 66 67 72 139 <\s>
+<s> _portsmouth adventure 167 168 169 171 <\s>
+<s> portugal brigantine 327 331 privateering commission from 27-28 <\s>
+<s> portuguese vessels and kidd 194 207 255 <\s>
+<s> potter e r and s s <\s>
+<s> rider _bills of credit of r i 391 n <\s>
+<s> potter gideon 384 395 397 416 <\s>
+<s> potter jeffery indian 513 <\s>
+<s> potter _capt simeon 387 510 n 511-514 572 n <\s>
+<s> prada y nieto diego de deposition 508-510 <\s>
+<s> pratt f t _law of contraband of war 347 n 442 n <\s>
+<s> prince _capt laurence 295 307 <\s>
+<s> _prince charles of lorraine privateer 387 n 572 n papers 510-514 <\s>
+<s> _princess anne prize 277 <\s>
+<s> princess anne county va 262 n 266 n 267 <\s>
+<s> _princess of orange 1 snow prize case 473-492 <\s>
+<s> _princess of orange 2 prize 525 <\s>
+<s> privateering defined ix essential documents x procedure as to prizes xi xii xiii <\s>
+<s> privateers accounts 415 417 commissions 378-381 instructions 347-354 news of 571-573 <\s>
+<s> privy council 451 n <\s>
+<s> privy council office london documents from xv 153-165 318-323 <\s>
+<s> prize cases appeals xii xiii 442 453 n procedure xi-xiii 275-276 <\s>
+<s> prize courts xi xii 312-313 524-525 for appeals xii xiii _see also commissioners for appeals in prize causes <\s>
+<s> prizes xi 349-352 accounts 412 534-535 division of proceeds 152-153 396 416 417 recapture 408 432 439-442 442 n warrant to try 524-525 <\s>
+<s> proctors 439 n accounts 453-456 468-470 <\s>
+<s> mackay 369-370 of sailors of the _hawk_ 499-501 <\s>
+<s> _providence_ retaken prize 46-67 inventory 51-61 <\s>
+<s> providence island caribbean documents 1-8 company of 1-3 <\s>
+<s> providence island madagascar 317 n <\s>
+<s> province house boston 226 n <\s>
+<s> provisions on _revenge_ 384 <\s>
+<s> prynne _capt nicholas 62 <\s>
+<s> psara or psyra island 534 549 <\s>
+<s> public record office london documents from xv 1 133-137 165-178 180-187 190-196 200-218 220-244 275-276 285-286 312-313 355-356 573-580 <\s>
+<s> pueblo nuevo 101 103 <\s>
+<s> puerto de bastimentos 89 <\s>
+<s> punta santa elena 105 106 n 117 <\s>
+<s> pym john 1 n 3 <\s>
+<s> _quedah merchant kidd's chief prize 195 202 208 209 210 211 214 218 225 230 231 232-237 246-249 255 <\s>
+<s> _queenborough_ h m s 196 <\s>
+<s> _queen of bohemia 6 <\s>
+<s> queen's head inn boston 258 <\s>
+<s> quelch _capt john 152 n piracy case 278-284 _arraignment tryal and condemnation of_ 284 <\s>
+<s> quick cornelius 222 223 <\s>
+<s> quintor hendrick pirate trial 303-306 <\s>
+<s> raddon _capt thomas 47 63 64 petition 67 <\s>
+<s> rameres manuel notary 555 <\s>
+<s> rams christiaen pietersen 9-11 <\s>
+<s> ramsey william 392 416 <\s>
+<s> randolph edward 167 n <\s>
+<s> raphe francisco 537 548 549 550 deposition 533-534 <\s>
+<s> rawson edward secretary massachusetts attests documents 18 19 25 26 36 39 40 49 50 51 64 66 67 71 139 141 <\s>
+<s> rayner _capt josiah pirate 177 181 187 <\s>
+<s> read ephraim 395 416 417 419 <\s>
+<s> read william agreement 463-465 <\s>
+<s> reading _capt john 277 <\s>
+<s> red sea 156 167 169 178 182-185 197 203 218 <\s>
+<s> redwood abraham 211 n <\s>
+<s> reed _capt 327 340 <\s>
+<s> reers _capt cornelius 138 <\s>
+<s> remedios panama 101 n <\s>
+<s> renals john pirate 142 <\s>
+<s> _resolution_ 1 175 178 184 185 187 200 <\s>
+<s> _resolution_ 2 198 n 200 _see also mocha <\s>
+<s> _revenge_ 1 privateer sloop 378-473 accounts 429-431 461-462 agreement with the _success_ 463-465 appeal case 442-450 451-455 468-470 commission 378-381 journal of cruise 381-429 medicines 457-461 prize case _sarah_ 431-442 _st <\s>
+<s> joseph de las animas 450-451 <\s>
+<s> _revenge_ 2 english privateer 469 <\s>
+<s> rex _vs broom 378 n <\s>
+<s> rhett sarah 406 n <\s>
+<s> rhode island admiralty court 450-451 465 n 469 archives documents from xv 510-515 _colonial records 285 n 346 n 382 n 429 n 514 n 575 n 576 n fugitives to 73 304 petition to 346-347 pirates in 189 240 241 243 244 319 578 pirates of 176 201 privateering commissions 285-286 378-381 vessels 213 218 _see also _revenge_ <\s>
+<s> _rhode island historical tracts 576 n <\s>
+<s> rhodes john piracy case of 74-81 <\s>
+<s> richards _capt edward 525 <\s>
+<s> richards _capt james or john 294 295 307 308 310 <\s>

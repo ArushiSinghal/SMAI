@@ -1,0 +1,600 @@
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
+<s> falmouth _viscount_ hugh boscawen 567 <\s>
+<s> falmouth eng 48 50 51 60-65 67 <\s>
+<s> _fancy_ 154 160 n 178 179 <\s>
+<s> farmar jasper 530 n 531 550 552 <\s>
+<s> farnam _capt 276 277 <\s>
+<s> faro _capt joseph 167 171 <\s>
+<s> farrand godfrey lee register 568 <\s>
+<s> fastnet rock 368 n <\s>
+<s> fauque _father_ elzéar 511 n 513 n <\s>
+<s> fernandez duro c _armada española 562 n <\s>
+<s> fernández juan 125 n <\s>
+<s> ferne samuel pirate 325 331 334 335 337 339 <\s>
+<s> ferrera peter joseph notary 478 <\s>
+<s> ferres bravo diogo 28 <\s>
+<s> ferrow joseph 384 385 389 392 <\s>
+<s> _fidelia_ 239 n piratical goods in 257-259 <\s>
+<s> fielding andrew 385 386 <\s>
+<s> fillmore john 334 340 343 trial 323-330 _narration of the captivity of_ 323 n 325 n 330 n <\s>
+<s> fillmore _pres millard 325 n <\s>
+<s> finis cove ireland 369 <\s>
+<s> firth _sir_ charles h _naval songs and ballads 153 n 253 n <\s>
+<s> _fisher_ sloop 291 301 <\s>
+<s> fitch thomas 324 338 <\s>
+<s> fitzgerald thomas deposition 296-298 <\s>
+<s> flags various 55 122 140 141 154 194 274 352 390 401 424 434 485 488 490 496 499 <\s>
+<s> flamenco island 99 n <\s>
+<s> fletcher _gov benjamin 167 n 176 n 178 n 181 n 182 n 183 n 214 238 <\s>
+<s> fletcher william 264 265 deposition 262-264 <\s>
+<s> flood john deposition 496-498 <\s>
+<s> _floridana_ 562 n 563 <\s>
+<s> flushing zeeland 49 61 140 <\s>
+<s> _flying fish prize 525 <\s>
+<s> ford gordon l 453 n <\s>
+<s> ford paul l 454 n 465 n _journals of hugh gaine 581 n <\s>
+<s> foreside edward 160 161 163 <\s>
+<s> forrest william pirate 69 70 73 n examination 71-72 <\s>
+<s> fort dauphin madagascar 180 181 182 <\s>
+<s> fort moosa 402 n <\s>
+<s> _fortune_ 1 180 186 <\s>
+<s> _fortune of courland 148 n <\s>
+<s> foss zechariah deposition 496-498 <\s>
+<s> fowler richard 74 n 78 <\s>
+<s> fox _capt thomas 308 <\s>
+<s> _fox_ privateer 573 n <\s>
+<s> foxford ireland 163 164 <\s>
+<s> france declaration of war against great britain 505 n privateers of 505 war with netherlands 74 n <\s>
+<s> francis negro 385 n <\s>
+<s> francis philip de _see_ ybañez <\s>
+<s> francisco _capt negro 399 402-403 407-411 414 <\s>
+<s> francisco negro slave 327 331 343 <\s>
+<s> frank cornelius 266 n <\s>
+<s> frankland _sir_ charles henry 406 n 413 414 426 428 <\s>
+<s> frankland _capt thomas r n 405 n 406 412 n 413 414 426 428 430 <\s>
+<s> franklin benjamin 473 n 503 n 508 n <\s>
+<s> franklyn king's proctor 378 n <\s>
+<s> franks benjamin deposition 190-195 <\s>
+<s> frederick william elector of brandenburg 82 n 138 139 235 n <\s>
+<s> freebody _capt john 382-385 387 388 393 423 425 461 accounts against 453-461 agreement 463-465 appeal 443 letters to 414 425-429 448-450 451-453 <\s>
+<s> _friends adventure 270 n <\s>
+<s> frisle joseph 384 395 397 416 <\s>
+<s> frisle william 384 395 397 416 <\s>
+<s> fryer nathaniel 49-51 61 66 67 inventory by 51-61 <\s>
+<s> fryer thomas 415 416 <\s>
+<s> fuentes miguel de 537 <\s>
+<s> fundy bay of 75 76 79 80 <\s>
+<s> furber master 326 339 <\s>
+<s> gage thomas _the english american 1 n <\s>
+<s> ganancho juan antonio 479 <\s>
+<s> _ganj i sawai 157 158 <\s>
+<s> garcia _don_ francisco 537 <\s>
+<s> gardiner john of gardiner's island 212 213 216 227 228 narrative 220-223 <\s>
+<s> gardiner _mrs john 220 n 221 <\s>
+<s> gardiner c c _lion gardiner and his descendants 216 n <\s>
+<s> gardiner lion 220 n <\s>
+<s> gardiner robert of newport 243 244 <\s>
+<s> gardiner _lieut thomas 75 <\s>
+<s> gardiner's island 212 213 216 220-223 227 228 236 237 <\s>
+<s> gayer _sir_ john 156 n <\s>
+<s> _general washington privateer 581 n <\s>
+<s> _gentleman s magazine 449 n 485 n <\s>
+<s> george i act concerning piracy 324 act concerning privateers 347 n proclamation 315 <\s>
+<s> george ii acts concerning privateers on prizes 355 396 n 408 432 441 442 n commissions 516-523 577 n instructions to captains of privateers 347-354 <\s>
+<s> george iii commissions 577 n <\s>
+<s> george _prince_ of denmark lord high admiral 275 <\s>
+<s> _george_ 2 privateer 473 n 474 477 486 488 490 491 503 n 504 <\s>
+<s> georgia _colonial records 404 n 537 n 543 n <\s>
+<s> georgia historical society _collections_ 399 n <\s>
+<s> gibbs george marshal 576 <\s>
+<s> gilbert _capt john bristol 311 <\s>
+<s> gilbert _mrs mary innkeeper 345 <\s>
+<s> giles henry 341 343 trial 330-338 <\s>
+<s> gilespy henry pirate 315 <\s>
+<s> gillam james pirate 201 237-240 242-244 250 n <\s>
+<s> gillmore john 384 394 416 422 <\s>
+<s> glas george _description of the canary islands 373 n <\s>
+<s> glasby harry pirate 315 n <\s>
+<s> glen _gov james 518 <\s>
+<s> glen _capt thomas 346 <\s>
+<s> gloucester county va 260 <\s>
+<s> glover farmer 161 163-165 <\s>
