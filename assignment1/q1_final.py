@@ -16,10 +16,12 @@ def load_csv(filename):
         result = numpy.hstack((result,b))
         result = numpy.array(result).astype("int")
         return result, col
+
 def batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate):
     k = numpy.zeros((num_rows,num_cols))
     for j in range(epoch):
         l = 0
+        k = numpy.zeros((num_rows,num_cols))
         for i in range(num_rows):
             ans = numpy.dot(batch_w, result[i])
             if (ans <= 0) and (label[i] == 1):
@@ -41,16 +43,12 @@ def batch_test_dataset(batch_w, result1, label1, num_cols, num_rows):
         ans = numpy.dot(batch_w, result1[i])
         if (ans > 0) and (label1[i] == 1):
             count = count + 1
-            print ("1")
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
-            print ("0")
         if (ans >= 0) and (label1[i] == 0):
             count2 = count2 + 1
-            print ("1")
         if (ans <= 0) and (label1[i] == 1):
             count3 = count3 + 1
-            print ("0")
     return count, count1, count2, count3;
 
 def margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b):
@@ -74,16 +72,12 @@ def margin_test_dataset(margin_w, result1, label1, num_cols, num_rows, b):
             ans = numpy.dot(margin_w, result1[i])
             if (ans > 0) and (label1[i] == 1):
                 count = count + 1
-                print ("1")
             if (ans < 0) and (label1[i] == 0):
                 count1 = count1 + 1
-                print ("0")
             if (ans >= 0) and (label1[i] == 0):
                 count2 = count2 + 1
-                print ("1")
             if (ans <= 0) and (label1[i] == 1):
                 count3 = count3 + 1
-                print ("0")
         return count, count1, count2, count3;
 
 def train_dataset(w, epoch, result, label, num_cols, num_rows, learning_rate):
@@ -107,16 +101,12 @@ def test_dataset(w, result1, label1, num_cols, num_rows):
         ans = numpy.dot(w, result1[i])
         if (ans > 0) and (label1[i] == 1):
             count = count + 1
-            print ("1")
         if (ans < 0) and (label1[i] == 0):
             count1 = count1 + 1
-            print ("0")
         if (ans >= 0) and (label1[i] == 0):
             count2 = count2 + 1
-            print ("1")
         if (ans <= 0) and (label1[i] == 1):
             count3 = count3 + 1
-            print ("0")
     return count, count1, count2, count3;
 
 dataset_train = sys.argv[1]
@@ -139,7 +129,7 @@ total1 = count + count2
 precision = (count * 1.0)/total1
 total2 = count + count3
 recall = (count * 1.0)/total2
-print ("%f %f" %(precision, recall))
+#print ("%f %f" %(precision, recall))
 
 b = 10000
 margin_w = margin_train_dataset(margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
@@ -148,7 +138,7 @@ total1 = count + count2
 precision1 = (count * 1.0)/total1
 total2 = count + count3
 recall1 = (count * 1.0)/total2
-print ("%f %f" %(precision1, recall1))
+#print ("%f %f" %(precision1, recall1))
 
 batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
 count, count1, count2, count3 = batch_test_dataset(batch_w, result1, label1, num_cols1, num_rows1)
