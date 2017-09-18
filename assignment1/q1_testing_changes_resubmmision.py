@@ -32,6 +32,7 @@ def batch_margin_train_dataset(batch_margin_w, epoch, result, label, num_cols, n
     k = numpy.zeros((num_rows,num_cols))
     for j in range(epoch):
         l = 0
+        k = numpy.zeros((num_rows,num_cols))
         for i in range(num_rows):
             ans = numpy.dot(batch_margin_w, result[i])
             if (ans <= b) and (label[i] == 1):
@@ -63,6 +64,7 @@ def batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learn
     k = numpy.zeros((num_rows,num_cols))
     for j in range(epoch):
         l = 0
+        k = numpy.zeros((num_rows,num_cols))
         for i in range(num_rows):
             ans = numpy.dot(batch_w, result[i])
             if (ans <= 0) and (label[i] == 1):
@@ -155,7 +157,7 @@ w = numpy.array(w).astype("float")
 batch_w = w
 margin_w = w
 batch_margin_w = w
-epoch = 600
+epoch = 100
 learning_rate = 0.5
 num_rows1, num_cols1 = result1.shape
 
