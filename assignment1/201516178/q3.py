@@ -84,8 +84,8 @@ def get_tree(node):
     else:
         num_row , num_col = left.shape
     if (len(right) == 0):
-        num_row = 0
-        num_col = 0
+        num_row1 = 0
+        num_col1 = 0
     else:
         num_row1 , num_col1 = right.shape
     del(node['groups'])
@@ -111,7 +111,7 @@ def get_tree(node):
 def test(node, row):
     num_rows,num_col = result.shape
     if node['index'] < 7:
-        if row[node['index']] <= node['value']:
+        if float(row[node['index']]) <= float(node['value']):
             if isinstance(node['left'], dict):
                 return test(node['left'], row)
             else:

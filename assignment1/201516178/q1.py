@@ -27,10 +27,43 @@ def load_csv1(filename):
         result = numpy.array(result).astype("int")
         return result
 
+def batch_margin_train_dataset(batch_margin_w, epoch, result, label, num_cols, num_rows, learning_rate,b):
+    k = numpy.zeros((num_rows,num_cols))
+    for j in range(epoch):
+        l = 0
+        k = numpy.zeros((num_rows,num_cols))
+        for i in range(num_rows):
+            ans = numpy.dot(batch_margin_w, result[i])
+            if (ans <= b) and (label[i] == 1):
+                k[l] = learning_rate*result[i]
+                l +=1
+            elif (ans >= -1*b) and (label[i] == 0):
+                k[l] = -1*learning_rate*result[i]
+                l +=1
+        for m in range(l):
+            batch_margin_w = numpy.add(batch_margin_w,k[m])
+    return batch_margin_w;
+
+def batch_margin_test_dataset(batch_margin_w, result1, num_cols, num_rows, b):
+    count = 0
+    count1 = 0
+    count2 = 0
+    count3 = 0
+    for i in range(num_rows):
+        ans = numpy.dot(batch_margin_w, result1[i])
+        if (ans >= 0):
+            count = count + 1
+            print ("1")
+        elif (ans < 0):
+            count1 = count1 + 1
+            print ("0")
+    return count, count1;
+
 def batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate):
     k = numpy.zeros((num_rows,num_cols))
     for j in range(epoch):
         l = 0
+        k = numpy.zeros((num_rows,num_cols))
         for i in range(num_rows):
             ans = numpy.dot(batch_w, result[i])
             if (ans <= 0) and (label[i] == 1):
@@ -53,7 +86,7 @@ def batch_test_dataset(batch_w, result1, num_cols, num_rows):
         if (ans >= 0):
             count = count + 1
             print ("1")
-        if (ans < 0):
+        elif (ans < 0):
             count1 = count1 + 1
             print ("0")
     return count, count1;
@@ -80,7 +113,7 @@ def margin_test_dataset(margin_w, result1, num_cols, num_rows, b):
             if (ans >= 0):
                 count = count + 1
                 print ("1")
-            if (ans < 0):
+            elif (ans < 0):
                 count1 = count1 + 1
                 print ("0")
         return count, count1;
@@ -107,7 +140,7 @@ def test_dataset(w, result1, num_cols, num_rows):
         if (ans >= 0):
             count = count + 1
             print ("1")
-        if (ans < 0):
+        elif (ans < 0):
             count1 = count1 + 1
             print ("0")
     return count, count1;
@@ -122,8 +155,9 @@ w = numpy.zeros((1,num_cols))
 w = numpy.array(w).astype("float")
 batch_w = w
 margin_w = w
-epoch = 50
-learning_rate = 0.4
+batch_margin_w = w
+epoch = 100
+learning_rate = 0.5
 num_rows1, num_cols1 = result1.shape
 
 w = train_dataset(w, epoch, result, label, num_cols, num_rows, learning_rate)
@@ -135,3 +169,7 @@ count, count1 = margin_test_dataset(margin_w, result1,num_cols1, num_rows1, b)
 
 batch_w = batch_train_dataset(batch_w, epoch, result, label, num_cols, num_rows, learning_rate)
 count, count1 = batch_test_dataset(batch_w, result1, num_cols1, num_rows1)
+
+b = 1
+batch_margin_w = batch_margin_train_dataset(batch_margin_w, epoch, result, label, num_cols, num_rows, learning_rate, b)
+count, count1 = batch_margin_test_dataset(batch_margin_w, result1,num_cols1, num_rows1, b)

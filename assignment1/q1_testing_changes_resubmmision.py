@@ -25,7 +25,6 @@ def load_csv1(filename):
         b = numpy.ones((num_rows,1))
         result = numpy.hstack((result,b))
         result = numpy.array(result).astype("int")
-        num_rows, num_cols = result.shape
         return result
 
 def batch_margin_train_dataset(batch_margin_w, epoch, result, label, num_cols, num_rows, learning_rate,b):
