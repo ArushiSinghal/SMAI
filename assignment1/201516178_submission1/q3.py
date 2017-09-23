@@ -25,13 +25,6 @@ def load_csv1(filename):
     x = list(csv_reader)
     result = numpy.array(x)
     result = numpy.delete(result, 0, 0)
-    col = result[:,6]
-    result = numpy.delete(result, 6, 1)
-    num_rows, num_cols = result.shape
-    b = numpy.ones((num_rows,1))
-    for i in range(num_rows):
-        b[i][0] = col[i]
-    result = numpy.hstack((result,b))
     return result
 
 def unique(result):
@@ -75,9 +68,9 @@ def to_terminal(node):
     count1 = 0
     for i in range(num_rows):
         if node[i][9] == '1.0':
-            count += 1
+            count +=1
         if node[i][9] == '0.0':
-            count1 += 1
+            count1 +=1
     if count >= count1:
         return 1
     else:
@@ -104,14 +97,14 @@ def get_tree(node):
         node['right'] = to_terminal(left)
         node['left'] = node['right']
         return
-    if num_row > 0 and num_row <= 1:
+    if num_row > 0 and num_row <= 100:
         node['left'] = to_terminal(left)
-    elif num_row > 1:
+    elif num_row > 100:
         node['left'] = gainfunction(left)
         get_tree(node['left'])
-    if num_row1 > 0 and num_row1 <= 1:
+    if num_row1 > 0 and num_row1 <= 100:
         node['right'] = to_terminal(right)
-    elif num_row1 > 1:
+    elif num_row1 > 100:
         node['right'] = gainfunction(right)
         get_tree(node['right'])
 
@@ -122,26 +115,26 @@ def test(node, row):
             if isinstance(node['left'], dict):
                 return test(node['left'], row)
             else:
-                #print (node['left'])
+                print (node['left'])
                 return node['left']
         else:
             if isinstance(node['right'], dict):
                 return test(node['right'], row)
             else:
-                #print (node['right'])
+                print (node['right'])
                 return node['right']
     else:
         if row[node['index']] != node['value']:
             if isinstance(node['left'], dict):
                 return test(node['left'], row)
             else:
-                #print (node['left'])
+                print (node['left'])
                 return node['left']
         else:
             if isinstance(node['right'], dict):
                 return test(node['right'], row)
             else:
-                #print (node['right'])
+                print (node['right'])
                 return node['right']
 
 def split (result, index, val):
@@ -162,8 +155,6 @@ def split (result, index, val):
                 right.append(result[j])
     left = numpy.array(left)
     right = numpy.array(right)
-    #print left
-    #print right
     groups = left, right
     b_index, b_value, b_groups = index, val, groups
     return {'index':b_index, 'value':b_value, 'groups':b_groups}
@@ -260,4 +251,4 @@ root = gainfunction(result)
 get_tree(root)
 num_row, num_col = result1.shape
 for i in range(num_row):
-    a = test(root,result1[i])
+    test(root,result1[i])
