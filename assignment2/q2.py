@@ -11,6 +11,7 @@ from sklearn.utils import shuffle
 from sklearn.cross_validation import train_test_split
 import keras
 import keras.utils
+import tensorflow as tf
 from keras import backend
 backend.set_image_dim_ordering('tf')
 from keras.utils import np_utils
@@ -56,9 +57,18 @@ if "__name__" != "__main__":
 	data = numpy.concatenate((data,data1,data2,data3,data4),axis=0)
 	labels = numpy.concatenate((labels,labels1,labels2,labels3,labels4),axis=0)
 	labels = labels.tolist()
+	num_rows, num_cols = data.shape
+	temp = tf.truncated_normal([16,128,128,3])
+	sess = tf.Session()
+	sess.run(tf.global_variables_initializer())
+	sess.run(tf.shape(temp))
 	#print labels
 	#labels.type
 	#print data.shape
 	#print data.shape
 	#print len(labels)
 	#print label_names
+	
+	#Input Image Dimensions
+	m =32
+	n =32
